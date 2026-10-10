@@ -1,0 +1,101 @@
+ID_Perangkat,Jenis_Perangkat,Status_Koneksi,Kualitas_Sinyal,Jumlah_Aktivasi_Harian,Suhu_Perangkat_C,Konsumsi_Daya_Wh
+IOT-001,Smart Speaker,Offline,Baik,14,30.7,272.8
+IOT-002,Termostat,Offline,Sangat Baik,12,27.5,42.2
+IOT-003,Smart Lamp,Online,Cukup,23,47.5,152.9
+IOT-004,Termostat,Online,Baik,15,25.9,13.3
+IOT-005,Termostat,Online,Baik,28,45.5,145.9
+IOT-006,Smart CCTV,Online,Cukup,34,57.9,26.3
+IOT-007,Smart Lamp,Online,Cukup,2,45.1,44.5
+IOT-008,Smart Lamp,Online,Sangat Baik,32,38.6,44.1
+IOT-009,Smart Lamp,Online,Baik,23,47.5,198.3
+IOT-010,Termostat,Online,Cukup,22,41.0,226.4
+IOT-011,Smart Speaker,Online,Sangat Baik,25,44.1,179.2
+IOT-012,Smart Lamp,Offline,Sangat Baik,22,58.0,289.0
+IOT-013,Termostat,Offline,Baik,22,38.5,118.7
+IOT-014,Smart CCTV,Online,Sangat Baik,49,58.6,92.9
+IOT-015,Smart Speaker,Online,Cukup,42,56.7,261.9
+IOT-016,Smart CCTV,Online,Cukup,6,31.9,74.8
+IOT-017,Smart Speaker,Online,Sangat Baik,15,27.4,289.3
+IOT-018,Termostat,Online,Sangat Baik,43,28.5,13.5
+IOT-019,Smartwatch,Online,Sangat Baik,37,25.6,291.3
+IOT-020,Smart Speaker,Online,Baik,33,28.3,22.5
+IOT-021,Smart CCTV,Online,Sangat Baik,8,48.9,268.4
+IOT-022,Termostat,Offline,Sangat Baik,44,27.5,163.0
+IOT-023,Smart Speaker,Online,Sangat Baik,44,36.2,298.0
+IOT-024,Smartwatch,Online,Sangat Baik,5,54.6,31.4
+IOT-025,Smartwatch,Online,Baik,39,25.8,170.6
+IOT-026,Smart Lamp,Online,Baik,4,53.5,291.1
+IOT-027,Smart Lamp,Online,Baik,6,34.9,161.7
+IOT-028,Smart CCTV,Online,Sangat Baik,45,29.1,192.5
+IOT-029,Smart Speaker,Online,Sangat Baik,32,49.4,211.8
+IOT-030,Smart Speaker,Offline,Cukup,30,47.0,141.8
+IOT-031,Smart Lamp,Online,Baik,47,55.7,192.0
+IOT-032,Smart Speaker,Online,Baik,35,50.7,179.5
+IOT-033,Smart Speaker,Offline,Baik,40,53.1,271.3
+IOT-034,Smartwatch,Online,Sangat Baik,16,34.9,23.2
+IOT-035,Smart Lamp,Online,Cukup,13,31.2,91.5
+IOT-036,Termostat,Online,Buruk,42,51.3,285.6
+IOT-037,Smart Lamp,Online,Baik,30,53.2,268.2
+IOT-038,Termostat,Online,Cukup,19,59.7,142.1
+IOT-039,Smartwatch,Online,Baik,17,39.4,189.8
+IOT-040,Smart CCTV,Offline,Sangat Baik,19,38.0,90.4
+IOT-041,Smart Speaker,Online,Sangat Baik,28,52.2,64.6
+IOT-042,Smartwatch,Online,Baik,26,36.9,144.5
+IOT-043,Smart Speaker,Online,Baik,37,57.6,112.5
+IOT-044,Smart CCTV,Offline,Baik,26,55.0,179.3
+IOT-045,Smart CCTV,Online,Baik,23,40.0,32.5
+IOT-046,Smartwatch,Online,Cukup,9,51.3,292.6
+IOT-047,Smart CCTV,Online,Baik,12,51.4,296.0
+IOT-048,Termostat,Online,Sangat Baik,1,28.6,212.5
+IOT-049,Smart CCTV,Online,Baik,1,56.6,165.5
+IOT-050,Smart Speaker,Online,Sangat Baik,47,42.7,99.8
+IOT-051,Smart Speaker,Online,Baik,34,53.9,246.0
+IOT-052,Smart Speaker,Online,Baik,32,36.2,208.6
+IOT-053,Smart Speaker,Online,Baik,48,56.3,57.2
+IOT-054,Termostat,Online,Baik,25,38.6,274.2
+IOT-055,Smart Lamp,Online,Sangat Baik,40,25.4,248.5
+IOT-056,Smartwatch,Online,Cukup,45,56.7,285.4
+IOT-057,Smart Speaker,Online,Baik,1,28.2,220.5
+IOT-058,Smart CCTV,Online,Baik,16,36.2,187.9
+IOT-059,Smart Speaker,Online,Sangat Baik,39,58.3,131.3
+IOT-060,Smart CCTV,Online,Buruk,5,58.3,280.5
+IOT-061,Smart CCTV,Online,Sangat Baik,22,45.1,261.2
+IOT-062,Smart Speaker,Online,Baik,29,47.1,23.1
+IOT-063,Termostat,Online,Cukup,3,40.7,17.6
+IOT-064,Smart CCTV,Online,Sangat Baik,12,35.3,119.2
+IOT-065,Smart CCTV,Online,Sangat Baik,26,36.5,245.1
+IOT-066,Smart Speaker,Offline,Sangat Baik,16,48.5,296.3
+IOT-067,Smart CCTV,Online,Baik,37,51.3,53.6
+IOT-068,Smart CCTV,Offline,Baik,22,52.7,182.3
+IOT-069,Smart Speaker,Online,Baik,29,52.6,120.5
+IOT-070,Smart Speaker,Online,Sangat Baik,14,28.2,291.3
+IOT-071,Smartwatch,Online,Buruk,28,42.3,254.2
+IOT-072,Termostat,Online,Baik,5,27.0,253.1
+IOT-073,Termostat,Online,Cukup,47,44.2,145.9
+IOT-074,Smart CCTV,Online,Cukup,49,40.5,130.3
+IOT-075,Termostat,Online,Baik,30,56.1,89.3
+IOT-076,Smart CCTV,Online,Baik,46,37.3,26.3
+IOT-077,Smartwatch,Online,Baik,5,29.1,260.8
+IOT-078,Smart Speaker,Online,Sangat Baik,12,30.0,245.7
+IOT-079,Smart Speaker,Online,Sangat Baik,16,51.7,299.9
+IOT-080,Smart Speaker,Online,Buruk,26,46.6,299.0
+IOT-081,Termostat,Offline,Cukup,26,28.5,171.1
+IOT-082,Smartwatch,Online,Baik,48,27.9,233.0
+IOT-083,Termostat,Offline,Baik,21,49.5,284.0
+IOT-084,Termostat,Online,Cukup,39,27.5,256.4
+IOT-085,Smartwatch,Offline,Cukup,36,53.8,81.7
+IOT-086,Smartwatch,Online,Baik,33,49.7,140.7
+IOT-087,Smartwatch,Online,Sangat Baik,30,27.8,47.5
+IOT-088,Smartwatch,Online,Cukup,37,28.0,286.7
+IOT-089,Smart Speaker,Online,Sangat Baik,23,59.5,185.8
+IOT-090,Smart Lamp,Offline,Baik,10,38.1,76.3
+IOT-091,Smart Lamp,Online,Cukup,5,38.0,204.8
+IOT-092,Smartwatch,Online,Baik,36,53.4,189.3
+IOT-093,Smart Lamp,Online,Cukup,34,58.2,113.9
+IOT-094,Smart Lamp,Offline,Baik,31,59.5,42.9
+IOT-095,Smartwatch,Online,Buruk,10,51.4,204.8
+IOT-096,Smart Lamp,Online,Buruk,19,38.2,160.9
+IOT-097,Termostat,Offline,Baik,32,27.9,234.0
+IOT-098,Smart CCTV,Online,Cukup,1,52.2,160.8
+IOT-099,Smart CCTV,Online,Buruk,5,44.5,257.1
+IOT-100,Smartwatch,Offline,Baik,45,39.8,170.1
