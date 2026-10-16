@@ -1,0 +1,501 @@
+﻿ID_Mahasiswa,Jenis_Kelamin,Program_Studi,Semester,Kota_Asal,Jumlah_Organisasi,Jam_Belajar_per_Minggu,Kehadiran_Persen,Nilai_Tugas,Nilai_UTS,Nilai_UAS,Uang_Saku_per_Bulan
+MHS001,Laki-laki,Teknik Komputer,5,Gowa,1,12.0,73.0,80.3,78.2,81.6,1400000
+MHS002,Laki-laki,Teknik Elektro,1,Bone,0,9.5,76.9,84.6,76.3,76.2,1150000
+MHS003,Perempuan,Pendidikan Teknik Informatika,5,Gowa,1,12.7,81.3,81.2,72.9,82.1,700000
+MHS004,Perempuan,Teknik Elektro,1,Takalar,0,11.0,95.8,83.0,85.0,87.9,3250000
+MHS005,Laki-laki,Pendidikan Teknik Informatika,1,Gowa,2,9.3,91.0,77.7,71.9,88.7,3450000
+MHS006,Laki-laki,Teknik Elektro,3,Bone,2,14.5,91.7,94.5,83.0,89.7,750000
+MHS007,Laki-laki,Teknik Komputer,5,Takalar,1,,100.0,88.9,86.0,84.3,3200000
+MHS008,Perempuan,Teknik Komputer,5,Gowa,1,9.6,82.7,61.2,60.6,68.9,1100000
+MHS009,Perempuan,Teknik Komputer,1,Makassar,0,15.7,95.2,81.1,75.4,77.8,1550000
+MHS010,Laki-laki,Teknik Elektro,1,Parepare,2,12.5,71.3,81.0,75.8,77.0,1600000
+MHS011,Laki-laki,Teknik Elektro,1,Parepare,1,9.0,76.6,88.5,67.8,77.2,2700000
+MHS012,Laki-laki,Teknik Elektro,5,Takalar,0,19.9,77.9,91.1,100.0,99.7,850000
+MHS013,Laki-laki,Teknik Elektro,7,Makassar,3,10.5,84.2,61.2,,78.9,3050000
+MHS014,Perempuan,Teknik Komputer,3,Parepare,1,18.3,84.6,86.6,85.9,87.2,1900000
+MHS015,Laki-laki,Teknik Elektro,3,Bone,1,17.6,89.9,100.0,92.2,89.1,1500000
+MHS016,laki laki,Teknik Elektro,7,Gowa,1,11.1,68.7,71.9,64.6,74.1,900000
+MHS017,Laki-laki,Teknik Elektro,7,Maros,1,6.2,87.7,52.6,69.1,69.0,1900000
+MHS018,Laki-laki,Teknik Komputer,3,Gowa,1,14.1,88.9,75.9,82.8,79.1,2800000
+MHS019,Laki-laki,Teknik Komputer,1,Makassar,3,13.9,81.1,80.0,75.7,,2100000
+MHS020,Laki-laki,Pendidikan Teknik Informatika,5,Takalar,1,10.4,72.8,71.9,72.6,78.5,1400000
+MHS021,Laki-laki,Teknik Elektro,1,Parepare,1,16.8,87.8,92.7,100.0,98.0,1300000
+MHS022,Laki-laki,Teknik Elektro,1,Parepare,2,4.7,95.8,62.4,66.0,65.0,3250000
+MHS023,Perempuan,Pendidikan Teknik Informatika,3,Parepare,2,12.8,93.0,78.0,75.0,92.9,800000
+MHS024,Laki-laki,Pendidikan Teknik Informatika,1,Makassar,1,10.4,84.8,79.4,76.1,83.4,2350000
+MHS025,Perempuan,Teknik Elektro,1,Parepare,2,45.0,96.2,83.4,84.9,86.0,2800000
+MHS026,Laki-laki,Pendidikan Teknik Informatika,5,Bone,1,9.1,95.2,78.4,81.1,99.7,700000
+MHS027,Laki-laki,Teknik Elektro,7,Maros,0,11.4,88.7,84.4,72.6,88.3,2850000
+MHS028,Laki-laki,Teknik Komputer,1,Parepare,3,,80.7,66.4,69.9,71.7,650000
+MHS029,Perempuan,Teknik Komputer,3,Parepare,0,14.1,68.7,79.1,82.3,89.4,1200000
+MHS030,Laki-laki,Pendidikan Teknik Informatika,1,Gowa,2,7.9,100.0,72.3,81.8,74.9,3450000
+MHS031,Laki-laki,Pendidikan Teknik Informatika,1,Takalar,1,14.3,76.9,88.5,78.3,80.9,1300000
+MHS032,Perempuan,Pendidikan Teknik Informatika,5,Makassar,3,11.5,96.3,77.3,50.9,63.7,1000000
+MHS033,Perempuan,Teknik Komputer,5,Makassar,0,6.6,90.2,77.4,62.3,69.6,2900000
+MHS034,,Pendidikan Teknik Informatika,1,Parepare,1,5.3,83.2,54.8,63.4,59.5,2300000
+MHS035,Laki-laki,Teknik Elektro,5,Bone,1,16.2,74.6,88.7,76.7,88.0,1750000
+MHS036,Laki-laki,Teknik Komputer,7,Parepare,3,8.7,69.5,67.6,68.2,69.3,1700000
+MHS037,Laki-laki,Pendidikan Teknik Informatika,5,Takalar,1,10.3,76.5,69.6,78.9,69.1,1700000
+MHS038,Perempuan,Teknik Komputer,3,Parepare,1,13.3,80.8,100.0,88.2,89.6,2400000
+MHS039,Perempuan,Teknik Elektro,3,Parepare,2,9.5,85.2,77.1,75.6,62.8,950000
+MHS040,Perempuan,Teknik Komputer,3,Parepare,1,15.4,86.9,86.3,92.1,78.6,2850000
+MHS041,Perempuan,Pendidikan Teknik Informatika,7,Bone,1,16.8,98.4,84.0,82.4,75.0,2700000
+MHS042,Perempuan,Teknik Elektro,3,Maros,1,11.8,79.3,82.9,75.4,75.1,2100000
+MHS043,Laki-laki,Teknik Elektro,3,Makassar,1,10.3,92.8,94.4,79.6,98.6,3400000
+MHS044,Laki-laki,Teknik Elektro,7,Takalar,0,8.5,95.7,77.2,74.9,92.5,2800000
+MHS045,Laki-laki,Pendidikan Teknik Informatika,3,Maros,1,16.1,86.3,80.7,87.3,92.1,1050000
+MHS046,Laki-laki,Pendidikan Teknik Informatika,1,,1,15.4,91.7,94.9,92.8,99.3,2100000
+MHS047,Perempuan,Pendidikan Teknik Informatika,5,Makassar,1,12.5,82.4,85.0,100.0,93.4,650000
+MHS048,Laki-laki,Teknik Komputer,3,Makassar,1,12.8,94.0,100.0,88.0,95.6,2050000
+MHS049,Laki-laki,Teknik Elektro,1,Gowa,3,13.2,86.1,87.1,84.9,77.1,3500000
+MHS050,Laki-laki,Teknik Komputer,3,Makassar,2,10.6,96.5,76.6,81.1,83.1,2750000
+MHS051,Perempuan,Teknik Elektro,5,Makassar,1,8.3,98.1,77.3,87.0,75.6,2450000
+MHS052,Laki-laki,Pendidikan Teknik Informatika,3,Parepare,1,9.3,76.0,81.0,70.4,87.4,3000000
+MHS053,Perempuan,teknik komputer,3,Makassar,1,6.2,89.1,62.3,59.3,72.5,1850000
+MHS054,Laki-laki,Pendidikan Teknik Informatika,3,Maros,2,8.1,98.9,72.7,91.5,76.8,850000
+MHS055,Laki-laki,Teknik Elektro,7,Takalar,1,,94.1,77.4,86.5,82.4,2200000
+MHS056,Laki-laki,Pendidikan Teknik Informatika,5,Takalar,1,5.0,100.0,66.7,60.5,69.2,1450000
+MHS057,Laki-laki,Teknik Elektro,3,Maros,0,5.9,82.0,76.8,60.4,73.9,2700000
+MHS058,Perempuan,Teknik Komputer,3,Maros,1,12.8,86.2,77.4,85.1,75.7,3450000
+MHS059,Laki-laki,Teknik Elektro,7,Makassar,2,8.5,81.0,73.3,85.9,77.2,2500000
+MHS060,Laki-laki,Teknik Komputer,7,Takalar,0,11.6,83.1,90.4,75.8,100.0,1000000
+MHS061,Perempuan,Teknik Elektro,3,Bone,1,15.3,81.3,77.8,76.3,78.4,15000000
+MHS062,Laki-laki,Teknik Elektro,3,Maros,2,13.9,89.1,85.7,74.6,87.8,1700000
+MHS063,Laki-laki,Teknik Komputer,5,Parepare,1,13.5,82.6,87.9,84.3,72.6,1350000
+MHS064,L,Teknik Komputer,3,Parepare,0,12.3,89.4,95.9,79.9,83.3,1700000
+MHS065,Perempuan,Teknik Komputer,7,Parepare,1,9.9,88.7,71.5,58.8,62.1,1850000
+MHS066,Perempuan,Teknik Komputer,1,Gowa,3,15.2,76.0,100.0,100.0,100.0,650000
+MHS067,Laki-laki,Pendidikan Teknik Informatika,7,Maros,0,7.6,79.2,71.6,65.8,76.3,3300000
+MHS068,Laki-laki,Teknik Komputer,5,Takalar,2,10.2,100.0,78.4,76.4,85.2,1850000
+MHS069,Laki-laki,Pendidikan Teknik Informatika,1,Parepare,2,11.2,85.6,71.4,62.6,71.3,700000
+MHS070,Laki-laki,Pendidikan Teknik Informatika,3,Maros,1,11.8,81.1,87.6,87.1,92.5,2800000
+MHS071,Laki-laki,Teknik Elektro,7,Makassar,1,13.6,81.7,89.3,98.9,100.0,1700000
+MHS072,Perempuan,Pendidikan Teknik Informatika,7,Takalar,1,8.8,82.5,79.9,,70.7,1650000
+MHS073,Perempuan,Pendidikan Teknik Informatika,5,Makassar,1,10.9,95.1,88.5,91.7,95.5,1950000
+MHS074,Perempuan,Teknik Elektro,7,Takalar,3,20.2,68.6,96.6,94.1,84.2,1850000
+MHS075,Perempuan,Teknik Elektro,7,Takalar,3,14.0,73.8,100.0,100.0,100.0,1900000
+MHS076,Laki-laki,Pendidikan Teknik Informatika,1,makassar,3,14.7,85.4,87.1,100.0,100.0,1600000
+MHS077,Perempuan,Teknik Elektro,7,Parepare,0,9.7,95.6,62.7,53.1,52.3,2550000
+MHS078,Laki-laki,Teknik Elektro,1,Gowa,1,24.6,71.8,92.9,100.0,100.0,900000
+MHS079,Perempuan,Teknik Komputer,5,Makassar,0,13.5,78.6,82.4,69.6,77.4,1250000
+MHS080,Laki-laki,Teknik Komputer,1,Bone,2,10.3,80.9,79.8,74.0,81.7,1550000
+MHS081,Laki-laki,Pendidikan Teknik Informatika,5,Parepare,1,21.1,93.6,100.0,100.0,97.8,2400000
+MHS082,Perempuan,Teknik Komputer,7,Takalar,0,9.7,90.1,83.8,87.4,77.4,2150000
+MHS083,Perempuan,Teknik Komputer,1,Bone,2,16.8,70.0,83.5,86.7,80.8,1300000
+MHS084,Perempuan,Teknik Elektro,3,Parepare,0,11.7,83.4,80.0,76.8,83.5,1750000
+MHS085,Perempuan,Teknik Elektro,7,Gowa,1,14.4,69.1,82.3,75.4,81.7,2500000
+MHS086,Perempuan,Teknik Elektro,5,Makassar,1,18.5,91.1,100.0,88.5,85.5,2850000
+MHS087,Perempuan,Teknik Komputer,7,Makassar,1,15.2,90.4,83.3,77.9,94.0,2050000
+MHS088,Laki-laki,Teknik Elektro,3,Takalar,0,16.3,78.2,88.8,100.0,95.4,3450000
+MHS089,Perempuan,Teknik Elektro,7,Makassar,0,,82.7,84.2,84.9,80.3,2400000
+MHS090,Perempuan,Teknik Elektro,7,Bone,2,14.8,91.8,95.9,76.1,100.0,650000
+MHS091,Perempuan,Teknik Komputer,7,Takalar,3,13.6,82.1,74.8,85.1,78.5,2150000
+MHS092,Perempuan,Teknik Komputer,1,Takalar,0,13.8,96.1,87.7,75.5,100.0,2850000
+MHS093,Laki-laki,Teknik Komputer,3,Bone,1,14.9,79.8,100.0,100.0,92.1,1100000
+MHS094,Laki-laki,Teknik Elektro,5,Gowa,0,13.9,81.8,84.1,74.2,75.5,1600000
+MHS095,Laki-laki,Teknik Komputer,7,Bone,0,16.5,88.4,88.8,77.0,84.4,3100000
+MHS096,Laki-laki,Teknik Elektro,5,Takalar,1,25.0,90.6,100.0,100.0,100.0,2350000
+MHS097,Laki-laki,Teknik Komputer,5,Bone,0,16.4,93.0,77.3,72.4,87.7,1750000
+MHS098,Perempuan,Teknik Elektro,7,Makassar,2,16.9,92.7,91.2,98.6,88.3,1450000
+MHS099,Perempuan,Pendidikan Teknik Informatika,7,Takalar,1,16.0,89.7,81.2,92.5,99.2,800000
+MHS100,Laki-laki,Teknik Komputer,1,Takalar,0,12.0,70.4,69.5,64.0,,1000000
+MHS101,Perempuan,Pendidikan Teknik Informatika,7,Parepare,0,11.7,91.7,91.5,90.4,94.5,950000
+MHS102,Perempuan,Teknik Elektro,5,Makassar,2,6.0,78.5,69.5,82.7,69.7,3200000
+MHS103,Laki-laki,Teknik Elektro,5,Makassar,0,11.5,78.4,79.9,83.6,70.9,2200000
+MHS104,Laki-laki,Teknik Komputer,1,Makassar,2,13.4,93.1,85.9,77.7,67.2,2900000
+MHS105,Laki-laki,Teknik Komputer,3,Gowa,2,14.1,86.0,80.8,71.3,72.9,1400000
+MHS106,Laki-laki,Pendidikan Teknik Informatika,7,Makassar,1,10.5,76.7,75.8,67.6,82.7,550000
+MHS107,Laki-laki,Pendidikan Teknik Informatika,3,Gowa,2,12.0,88.9,75.9,79.8,82.0,1450000
+MHS108,Perempuan,Teknik Komputer,7,Parepare,0,21.5,87.1,96.3,89.4,94.7,2250000
+MHS109,Perempuan,Teknik Komputer,7,Makassar,3,17.1,100.0,84.7,75.9,88.3,950000
+MHS110,Laki-laki,Pendidikan Teknik Informatika,7,Bone,0,17.0,75.4,98.0,96.2,93.6,2750000
+MHS111,Laki-laki,Pendidikan Teknik Informatika,5,Parepare,3,11.1,45.0,85.7,83.2,86.4,3250000
+MHS112,Laki-laki,Teknik Komputer,7,Takalar,2,12.8,76.3,85.3,79.8,78.9,3150000
+MHS113,Perempuan,Teknik Komputer,7,Makassar,1,7.7,74.5,66.2,73.7,71.8,650000
+MHS114,Laki-laki,Pendidikan Teknik Informatika,5,Makassar,1,14.2,84.5,77.2,62.7,69.3,650000
+MHS115,Perempuan,Teknik Elektro,3,Maros,1,2.4,84.8,59.5,65.1,36.3,850000
+MHS116,Laki-laki,Teknik Komputer,3,Parepare,1,8.0,88.6,83.4,75.8,86.3,1900000
+MHS117,Laki-laki,Teknik Elektro,5,Makassar,1,8.8,82.2,86.0,83.5,72.8,1150000
+MHS118,Perempuan,Teknik Komputer,3,Maros,1,9.2,75.2,88.0,88.0,86.5,3200000
+MHS119,Perempuan,Teknik Komputer,1,Parepare,2,11.7,84.9,87.3,67.3,86.2,1300000
+MHS120,PEREMPUAN,Teknik Komputer,3,Makassar,1,13.6,75.7,71.0,60.8,70.0,3100000
+MHS121,Laki-laki,Teknik Elektro,7,Gowa,0,15.9,73.0,84.0,78.2,89.0,3350000
+MHS122,Laki-laki,Pendidikan Teknik Informatika,5,Parepare,2,12.8,90.9,92.1,95.8,90.0,3350000
+MHS123,Perempuan,Pendidikan Teknik Informatika,5,Takalar,1,10.4,87.3,88.6,81.7,79.2,2500000
+MHS124,Perempuan,Teknik Elektro,1,Parepare,2,14.4,79.7,80.8,86.0,81.2,2350000
+MHS125,Laki-laki,Teknik Komputer,7,Maros,3,9.0,89.1,77.1,75.9,75.4,1850000
+MHS126,Laki-laki,Teknik Elektro,5,Gowa,0,10.8,99.7,78.5,77.0,71.7,500000
+MHS127,Laki-laki,Teknik Komputer,5,Gowa,2,6.4,81.1,69.3,66.3,75.3,700000
+MHS128,Laki-laki,Pendidikan Teknik Informatika,7,Makassar,0,17.0,78.9,95.9,93.5,98.8,2300000
+MHS129,Laki-laki,Teknik Elektro,5,Gowa,1,14.8,96.0,81.3,88.3,78.1,2650000
+MHS130,Laki-laki,Pendidikan Teknik Informatika,7,Makassar,1,15.5,84.3,98.2,88.9,100.0,3150000
+MHS131,Laki-laki,Teknik Elektro,5,Gowa,0,,80.8,83.7,63.4,77.6,3150000
+MHS132,Laki-laki,Teknik Komputer,1,Parepare,2,9.3,86.8,82.6,95.4,85.5,2650000
+MHS133,Perempuan,Teknik Elektro,7,Maros,0,10.5,79.8,78.5,74.6,73.4,2050000
+MHS134,Perempuan,Pendidikan Teknik Informatika,7,Takalar,1,14.9,96.3,87.2,78.2,82.9,2300000
+MHS135,Laki-laki,Pendidikan Teknik Informatika,3,Bone,1,15.4,89.3,90.8,82.7,79.8,2350000
+MHS136,Perempuan,Pendidikan Teknik Informatika,1,Parepare,2,4.0,100.0,83.2,70.0,67.4,3150000
+MHS137,Perempuan,Pendidikan Teknik Informatika,3,Makassar,0,7.1,76.3,75.4,74.2,66.5,2100000
+MHS138,Laki-laki,Teknik Elektro,3,Parepare,1,9.5,91.3,83.0,75.7,85.9,1650000
+MHS139,Laki-laki,Teknik Komputer,1,Parepare,0,3.7,83.0,82.3,73.1,70.2,3050000
+MHS140,Perempuan,Teknik Elektro,7,Gowa,0,15.1,78.0,87.1,97.4,95.7,1850000
+MHS141,Perempuan,Teknik Elektro,1,Bone,1,18.6,75.1,75.5,76.6,74.8,2650000
+MHS142,Laki-laki,Teknik Komputer,3,Gowa,1,8.7,85.3,68.2,72.3,69.2,850000
+MHS143,,Pendidikan Teknik Informatika,7,Parepare,2,5.7,82.8,71.1,80.7,69.9,2400000
+MHS144,Perempuan,Teknik Elektro,5,Gowa,2,13.6,73.8,100.0,72.7,94.9,750000
+MHS145,Laki-laki,Teknik Elektro,3,Maros,0,9.7,96.3,81.7,80.6,61.4,1550000
+MHS146,Laki-laki,Teknik Elektro,5,Gowa,1,11.2,82.7,69.8,69.2,71.6,3100000
+MHS147,Perempuan,Teknik Elektro,1,Makassar,0,19.0,80.6,94.4,80.3,85.2,650000
+MHS148,Perempuan,Teknik Elektro,5,Parepare,3,5.3,86.5,65.9,70.0,70.0,2350000
+MHS149,Perempuan,Pendidikan Teknik Informatika,7,Gowa,1,17.4,97.5,97.7,78.2,89.8,2050000
+MHS150,Laki-laki,Pendidikan Teknik Informatika,3,Takalar,0,10.4,86.4,96.9,96.0,85.9,1150000
+MHS151,Perempuan,Teknik Elektro,5,Gowa,2,7.7,85.1,70.0,84.7,71.8,2600000
+MHS152,Perempuan,Teknik Komputer,3,Bone,1,16.9,87.9,91.0,85.3,96.7,950000
+MHS153,Perempuan,Teknik Komputer,5,,1,11.5,86.4,90.4,82.6,92.4,2100000
+MHS154,Perempuan,Teknik Elektro,5,Bone,2,20.5,99.8,93.8,77.5,100.0,1100000
+MHS155,Laki-laki,Teknik Elektro,7,Bone,0,18.6,88.1,88.7,100.0,100.0,1100000
+MHS156,Perempuan,Teknik Elektro,5,Gowa,1,6.8,74.7,62.9,56.1,64.6,2850000
+MHS157,Perempuan,Pendidikan Teknik Informatika,1,Maros,1,15.7,90.3,93.5,88.3,74.3,3000000
+MHS158,Perempuan,Pendidikan Teknik Informatika,3,Parepare,0,7.7,86.2,65.0,62.0,82.6,1500000
+MHS159,Laki-laki,Teknik Elektro,1,Gowa,0,11.6,89.2,74.6,79.9,60.6,750000
+MHS160,Laki-laki,Teknik Elektro,3,Bone,1,9.9,76.7,78.5,79.1,70.8,2000000
+MHS161,Perempuan,Teknik Elektro,7,Gowa,3,11.9,91.6,93.3,97.9,85.0,3400000
+MHS162,Perempuan,Pendidikan Teknik Informatika,7,Maros,1,18.4,79.9,94.9,72.2,83.0,2150000
+MHS163,Perempuan,Teknik Komputer,5,Makassar,1,11.7,77.8,77.0,69.0,75.4,2750000
+MHS164,Perempuan,Teknik Elektro,5,Gowa,0,12.3,79.1,96.9,92.2,98.2,900000
+MHS165,Perempuan,Pendidikan Teknik Informatika,7,Makassar,2,19.2,100.0,97.9,88.0,83.8,2500000
+MHS166,Perempuan,Teknik Elektro,3,Maros,1,7.2,71.1,82.3,65.9,75.0,650000
+MHS167,Laki-laki,Pendidikan Teknik Informatika,3,Makassar,3,8.8,90.6,86.9,,83.5,550000
+MHS168,Perempuan,Teknik Elektro,1,Maros,1,17.5,84.3,76.0,78.2,67.3,1300000
+MHS169,Laki-laki,Pendidikan Teknik Informatika,3,Parepare,1,12.4,90.1,73.3,69.4,75.6,1250000
+MHS170,Perempuan,Pendidikan Teknik Informatika,5,Makassar,1,21.8,97.8,86.1,89.3,83.8,2350000
+MHS171,Perempuan,Pendidikan Teknik Informatika,5,Bone,2,18.3,85.8,88.7,92.8,94.1,2200000
+MHS172,Perempuan,Teknik Elektro,1,Parepare,3,11.0,95.6,85.0,87.1,92.3,3050000
+MHS173,Perempuan,Pendidikan Teknik Informatika,7,Bone,2,15.6,72.9,75.5,81.6,71.1,2700000
+MHS174,Perempuan,Teknik Komputer,1,Makassar,2,14.7,81.9,81.0,84.3,73.8,3350000
+MHS175,Laki-laki,Teknik Elektro,7,Makassar,2,11.2,85.9,88.6,74.5,79.7,3300000
+MHS176,Perempuan,Teknik Elektro,1,Takalar,1,15.3,85.1,94.5,87.5,81.7,750000
+MHS177,Laki-laki,Pendidikan Teknik Informatika,1,Maros,1,13.3,71.5,89.0,68.6,100.0,2100000
+MHS178,Perempuan,Pendidikan Teknik Informatika,7,Makassar,2,,76.5,70.1,75.7,81.9,2700000
+MHS179,Laki-laki,Teknik Elektro,3,Makassar,2,16.9,83.8,82.4,81.9,90.5,2450000
+MHS180,Perempuan,Teknik Komputer,5,Gowa,3,12.2,81.1,78.7,83.0,66.0,550000
+MHS181,Laki-laki,Teknik Komputer,1,Makassar,1,6.9,88.9,75.0,82.9,79.1,2750000
+MHS182,Laki-laki,Teknik Komputer,3,Bone,3,13.4,100.0,76.1,78.9,63.5,1500000
+MHS183,Perempuan,Teknik Komputer,3,Takalar,1,21.5,92.3,99.1,99.4,99.6,2600000
+MHS184,Laki-laki,Pendidikan Teknik Informatika,7,Bone,1,10.5,87.3,78.4,57.1,74.1,1750000
+MHS185,Laki-laki,Teknik  Komputer,1,Bone,1,8.2,89.9,75.6,69.8,75.0,2400000
+MHS186,Perempuan,Teknik Komputer,3,Makassar,1,10.0,75.4,77.5,78.6,66.0,2850000
+MHS187,Laki-laki,Pendidikan Teknik Informatika,3,Maros,1,14.8,82.0,96.6,86.7,74.5,1500000
+MHS188,Laki-laki,Pendidikan Teknik Informatika,3,Bone,1,11.6,93.8,75.9,68.1,91.1,2450000
+MHS189,Laki-laki,Teknik Elektro,7,Maros,3,9.7,91.0,73.8,76.5,79.1,2950000
+MHS190,Perempuan,Pendidikan Teknik Informatika,3,Gowa,1,7.0,95.4,67.0,62.9,60.4,2550000
+MHS191,Perempuan,Pendidikan Teknik Informatika,3,Parepare,2,15.6,96.2,76.3,63.8,71.4,750000
+MHS192,Laki-laki,Teknik Komputer,1,Makassar,1,14.1,80.1,83.1,75.0,82.5,3100000
+MHS193,Perempuan,Teknik Elektro,7,Makassar,0,11.9,84.6,75.9,75.9,75.4,3450000
+MHS194,Perempuan,Teknik Komputer,1,Makassar,1,12.8,96.1,89.2,83.3,80.4,2200000
+MHS195,Perempuan,Teknik Elektro,3,Parepare,1,9.4,70.8,60.6,66.9,64.1,2100000
+MHS196,Perempuan,Teknik Elektro,7,Makassar,1,12.0,81.8,80.0,74.5,100.0,900000
+MHS197,Laki-laki,Teknik Komputer,3,Parepare,2,11.3,85.4,98.0,98.1,85.7,650000
+MHS198,Laki-laki,Pendidikan Teknik Informatika,1,Gowa,1,12.6,72.4,79.8,79.3,82.6,2150000
+MHS199,Perempuan,Pendidikan Teknik Informatika,3,Parepare,2,2.0,84.9,74.4,74.0,65.5,3050000
+MHS200,Perempuan,Pendidikan Teknik Informatika,1,Parepare,1,17.1,84.6,89.7,68.8,84.4,3250000
+MHS201,Perempuan,Teknik Komputer,5,Gowa,2,14.5,87.3,76.8,81.3,75.7,950000
+MHS202,Laki-laki,Teknik Komputer,5,Takalar,1,50.0,89.2,90.1,76.3,81.3,600000
+MHS203,Laki-laki,Pendidikan Teknik Informatika,1,Bone,1,10.7,92.0,84.0,90.2,87.0,1500000
+MHS204,Laki-laki,Teknik Elektro,7,Gowa,0,11.0,93.8,89.5,78.3,90.8,800000
+MHS205,Perempuan,Pendidikan Teknik Informatika,3,Parepare,1,10.3,82.1,85.2,86.6,,3100000
+MHS206,Perempuan,Pendidikan Teknik Informatika,7,Maros,1,15.1,74.6,78.0,69.8,71.9,2500000
+MHS207,Perempuan,Teknik Komputer,7,Maros,1,10.9,76.3,72.9,63.4,83.9,2150000
+MHS208,Perempuan,Teknik Komputer,3,Bone,3,15.4,97.4,99.6,100.0,95.3,1700000
+MHS209,P,Pendidikan Teknik Informatika,7,Gowa,1,12.8,96.7,73.8,99.5,92.3,2500000
+MHS210,Perempuan,Teknik Elektro,7,Bone,0,18.6,82.5,88.0,95.1,91.2,1550000
+MHS211,Perempuan,Teknik Komputer,1,Bone,3,10.7,77.7,65.8,75.8,78.2,1600000
+MHS212,Laki-laki,Teknik Elektro,3,Takalar,1,6.6,87.8,70.0,78.7,71.6,1750000
+MHS213,Perempuan,Teknik Komputer,1,Parepare,0,10.8,93.2,88.5,73.5,83.2,3400000
+MHS214,Perempuan,Pendidikan Teknik Informatika,1,Maros,0,12.3,83.3,82.2,83.2,61.6,1500000
+MHS215,Laki-laki,Teknik Elektro,3,Maros,1,15.3,83.5,84.9,76.4,75.6,600000
+MHS216,Laki-laki,Pendidikan Teknik Informatika,7,Takalar,0,13.2,91.3,72.8,68.2,73.6,2750000
+MHS217,Laki-laki,Pendidikan Teknik Informatika,5,Gowa,1,11.9,100.0,74.2,65.5,68.1,2950000
+MHS218,Laki-laki,Pendidikan Teknik Informatika,5,Takalar,1,14.9,73.5,88.3,82.9,82.9,1000000
+MHS219,Laki-laki,Pendidikan Teknik Informatika,1,Gowa,1,15.0,91.2,76.9,71.5,83.9,2750000
+MHS220,Laki-laki,Teknik Elektro,3,Takalar,1,15.5,99.2,73.5,86.0,76.6,1300000
+MHS221,Perempuan,Teknik Elektro,7,Takalar,2,5.9,92.7,71.3,80.8,72.8,1750000
+MHS222,Laki-laki,Pendidikan Teknik Informatika,3,GOWA,1,13.5,74.9,77.4,72.1,81.5,1600000
+MHS223,Perempuan,Teknik Elektro,1,Parepare,1,13.3,93.3,76.9,82.3,99.4,650000
+MHS224,Perempuan,Pendidikan Teknik Informatika,5,Makassar,1,19.4,84.5,100.0,86.0,88.6,3500000
+MHS225,Perempuan,Teknik Komputer,3,Gowa,2,14.3,75.2,74.2,83.1,93.9,1750000
+MHS226,Perempuan,Teknik Elektro,5,Bone,3,11.7,81.8,88.8,100.0,77.7,3250000
+MHS227,Laki-laki,Teknik Elektro,3,Gowa,0,11.2,90.4,80.4,88.8,92.4,3150000
+MHS228,Perempuan,Pendidikan Teknik Informatika,7,Makassar,1,13.8,82.6,78.7,83.3,75.1,2550000
+MHS229,Perempuan,Teknik Elektro,1,Parepare,0,18.1,83.0,77.4,86.6,77.9,2300000
+MHS230,Laki-laki,Pendidikan Teknik Informatika,5,Maros,2,9.7,94.0,70.9,65.4,82.3,700000
+MHS231,Laki-laki,Teknik Komputer,7,Makassar,0,15.2,78.3,100.0,100.0,100.0,1050000
+MHS232,Perempuan,Teknik Komputer,5,Makassar,2,,92.7,84.8,79.8,89.7,3450000
+MHS233,Laki-laki,Pendidikan Teknik Informatika,1,Parepare,0,12.9,88.1,74.0,74.6,76.7,1950000
+MHS234,Laki-laki,Pendidikan Teknik Informatika,3,Takalar,0,7.7,93.7,83.3,81.5,76.7,1050000
+MHS235,Laki-laki,Teknik Komputer,1,Bone,2,6.5,89.7,69.7,60.7,77.1,1400000
+MHS236,Laki-laki,Teknik Komputer,3,Makassar,1,4.8,98.7,74.2,69.2,74.0,2800000
+MHS237,Perempuan,Teknik Elektro,1,Parepare,2,14.0,95.5,93.1,79.1,76.4,1500000
+MHS238,Perempuan,Pendidikan Teknik Informatika,1,Gowa,1,8.4,79.5,90.8,94.2,90.1,2900000
+MHS239,Perempuan,Pendidikan Teknik Informatika,3,Takalar,3,12.6,83.5,88.1,86.9,86.2,2150000
+MHS240,Perempuan,Teknik Elektro,7,Takalar,2,16.8,89.9,83.3,80.9,93.9,1350000
+MHS241,Laki-laki,Teknik Elektro,5,Takalar,1,13.0,73.5,74.7,60.0,84.6,1500000
+MHS242,Laki-laki,Teknik Komputer,1,Takalar,0,11.5,83.3,69.8,74.7,76.3,1100000
+MHS243,Laki-laki,Teknik Komputer,7,Maros,1,13.8,72.5,86.1,82.9,76.6,1000000
+MHS244,Laki-laki,Pendidikan Teknik Informatika,7,Maros,1,11.6,100.0,74.3,74.2,77.3,2900000
+MHS245,Laki-laki,Pendidikan Teknik Informatika,3,Maros,2,17.2,77.6,100.0,100.0,94.9,550000
+MHS246,Laki-laki,Teknik Komputer,7,Maros,1,17.9,100.0,92.7,,89.8,2250000
+MHS247,Laki-laki,Pendidikan Teknik Informatika,3,Takalar,3,9.3,98.5,75.9,73.9,73.7,1450000
+MHS248,Laki-laki,Pendidikan Teknik Informatika,1,Takalar,2,13.0,78.2,90.5,81.7,91.6,1750000
+MHS249,Laki-laki,Pendidikan Teknik Informatika,5,Bone,3,19.4,84.8,85.6,91.0,86.5,2200000
+MHS250,Laki-laki,Teknik Komputer,5,Parepare,2,19.5,71.3,99.5,100.0,88.0,950000
+MHS251,Laki-laki,Teknik Elektro,3,Takalar,1,25.0,95.0,99.9,100.0,93.0,2700000
+MHS252,Perempuan,Teknik Elektro,5,Takalar,3,14.0,86.8,99.2,98.4,96.0,2300000
+MHS253,Laki-laki,Teknik Komputer,5,Maros,2,16.1,81.4,85.9,82.9,90.5,1350000
+MHS254,Laki-laki,Teknik Elektro,1,Gowa,0,9.2,87.2,85.1,80.8,72.2,2450000
+MHS255,Perempuan,Teknik Komputer,1,Gowa,2,10.4,96.8,75.7,78.2,73.2,3500000
+MHS256,Laki-laki,Pendidikan Teknik Informatika,7,Bone,0,10.3,99.1,99.1,91.6,79.0,2800000
+MHS257,Laki-laki,Teknik Komputer,7,Makassar,2,12.9,86.0,78.9,98.3,100.0,2050000
+MHS258,Laki-laki,Teknik Elektro,5,Makassar,0,20.4,91.8,93.2,100.0,82.9,1900000
+MHS259,Laki-laki,Teknik Komputer,7,Makassar,0,5.9,78.3,71.0,66.5,64.7,1400000
+MHS260,Laki-laki,Pendidikan Teknik Informatika,5,Takalar,2,17.9,87.4,95.1,81.4,95.3,750000
+MHS261,Laki-laki,Pendidikan Teknik Informatika,7,Gowa,1,8.0,73.8,89.9,70.6,72.5,2100000
+MHS262,Perempuan,Pendidikan Teknik Informatika,7,Maros,3,8.5,84.9,82.5,79.5,94.3,1700000
+MHS263,Laki-laki,Pendidikan Teknik Informatika,5,Bone,3,14.3,84.4,79.1,86.7,65.0,750000
+MHS264,Laki-laki,Teknik Elektro,7,Maros,3,15.0,84.7,90.9,84.0,78.0,3000000
+MHS265,Laki-laki,Teknik Elektro,5,Bone,1,10.1,83.0,90.0,82.8,90.1,2550000
+MHS266,Laki-laki,Teknik Komputer,1,Gowa,1,17.0,86.1,91.2,85.4,77.4,1250000
+MHS267,Perempuan,Teknik Komputer,1,Gowa,1,18.5,78.1,88.9,100.0,94.1,3300000
+MHS268,Perempuan,Teknik Elektro,1,Maros,1,14.0,88.5,92.4,100.0,91.4,1250000
+MHS269,Perempuan,Teknik Komputer,3,Takalar,1,11.7,81.1,66.5,83.2,75.1,2900000
+MHS270,Laki-laki,Teknik Komputer,5,Bone,1,3.9,77.5,80.9,74.0,96.2,1200000
+MHS271,Laki-laki,Teknik Elektro,5,Takalar,0,14.0,96.9,87.4,77.9,76.8,2350000
+MHS272,Perempuan,Teknik Komputer,7,Takalar,2,10.2,91.2,77.2,72.5,77.6,1450000
+MHS273,Laki-laki,Pendidikan Teknik Informatika,1,Makassar,1,8.4,100.0,83.2,71.8,90.0,2800000
+MHS274,Laki-laki,Pendidikan Teknik Informatika,7,Parepare,0,14.7,83.3,86.2,89.9,90.3,1300000
+MHS275,Perempuan,Teknik Elektro,5,Parepare,1,12.6,87.5,68.4,74.3,77.8,2300000
+MHS276,Laki-laki,Pendidikan Teknik Informatika,7,Gowa,0,14.0,96.0,92.3,100.0,100.0,2500000
+MHS277,,Teknik Elektro,5,Makassar,1,9.6,90.0,78.1,81.2,77.3,1600000
+MHS278,Laki-laki,Pendidikan Teknik Informatika,1,Gowa,2,11.7,82.1,81.7,83.7,73.6,2800000
+MHS279,Laki-laki,Pendidikan Teknik Informatika,7,Bone,2,17.3,48.0,93.5,76.5,98.0,650000
+MHS280,Laki-laki,Teknik Komputer,7,Gowa,3,13.9,89.8,87.2,93.2,90.6,1350000
+MHS281,Laki-laki,Teknik Elektro,5,Maros,3,13.8,83.5,82.7,74.9,84.2,2400000
+MHS282,Laki-laki,Teknik Elektro,7,Makassar,1,15.7,93.5,77.4,95.3,83.6,900000
+MHS283,Perempuan,Teknik Elektro,5,Takalar,1,9.6,76.4,73.5,63.0,78.3,3350000
+MHS284,Perempuan,Teknik Komputer,7,Maros,2,16.8,87.8,93.4,80.1,99.7,1800000
+MHS285,Perempuan,Pendidikan Teknik Informatika,1,Gowa,0,16.8,83.6,87.2,80.0,95.5,1300000
+MHS286,Perempuan,Teknik Komputer,7,Parepare,1,8.6,84.2,89.4,94.4,90.4,2200000
+MHS287,Laki-laki,Teknik Elektro,1,Gowa,0,16.3,71.8,91.5,93.5,78.8,1650000
+MHS288,Perempuan,Pendidikan Teknik Informatika,7,Parepare,3,11.3,79.6,73.6,78.9,,2800000
+MHS289,Perempuan,Pendidikan Teknik Informatika,3,Maros,2,11.3,78.9,78.8,58.6,66.8,1450000
+MHS290,Laki-laki,Teknik Elektro,3,Maros,2,4.5,83.7,77.5,73.4,78.7,1250000
+MHS291,Laki-laki,Teknik Komputer,5,Bone,2,8.9,100.0,71.3,68.8,79.6,1550000
+MHS292,Laki-laki,Pendidikan Teknik Informatika,5,Parepare,1,8.7,77.6,99.5,100.0,94.4,2850000
+MHS293,Perempuan,Pendidikan Teknik Informatika,1,Takalar,0,18.2,84.2,90.8,88.2,76.4,1750000
+MHS294,Laki-laki,Teknik Komputer,3,Makassar,2,14.2,74.8,72.0,74.6,65.9,1750000
+MHS295,Perempuan,Pendidikan Teknik Informatika,7,Takalar,2,2.0,72.1,62.6,62.3,53.9,3200000
+MHS296,Perempuan,Teknik Elektro,5,Bone,1,15.3,95.3,82.0,70.2,84.9,2850000
+MHS297,Laki-laki,Teknik Elektro,5,Parepare,0,8.4,95.4,82.4,69.5,78.6,1750000
+MHS298,Perempuan,Teknik Komputer,7,Makassar,2,4.2,75.4,84.3,63.6,78.7,2100000
+MHS299,Perempuan,Pendidikan Teknik Informatika,1,,0,13.8,92.8,69.1,65.8,74.5,1250000
+MHS300,Laki-laki,Pendidikan Teknik Informatika,5,Parepare,3,12.0,87.5,79.1,77.4,66.7,1150000
+MHS301,Perempuan,Teknik Komputer,3,Bone,1,8.7,88.6,76.7,63.6,72.9,550000
+MHS302,Perempuan,Teknik Elektro,3,Makassar,2,10.4,80.7,72.3,79.3,81.3,2950000
+MHS303,Perempuan,Teknik Komputer,1,Makassar,1,10.9,97.5,74.9,93.0,59.5,1950000
+MHS304,Perempuan,Pendidikan Teknik Informatika,3,Gowa,3,16.0,81.0,96.3,94.0,96.8,2950000
+MHS305,Laki-laki,Teknik Komputer,5,Parepare,2,20.5,88.8,100.0,100.0,100.0,3300000
+MHS306,Laki-laki,Teknik Elektro,1,Makassar,2,9.1,88.9,69.7,75.5,80.5,3150000
+MHS307,Laki-laki,Pendidikan Teknik Informatika,7,Parepare,0,7.0,83.6,67.0,76.7,65.3,3100000
+MHS308,Laki-laki,Pendidikan Teknik Informatika,1,Makassar,1,7.1,76.2,69.0,74.2,86.1,1150000
+MHS309,Laki-laki,Teknik Elektro,7,Gowa,2,9.6,85.7,80.9,85.7,86.4,2550000
+MHS310,Laki-laki,Teknik Komputer,1,Parepare,2,17.3,78.5,76.3,70.4,74.2,1250000
+MHS311,Laki-laki,Pendidikan Teknik Informatika,5,Parepare,1,,81.4,80.2,85.9,71.3,1200000
+MHS312,Perempuan,Pendidikan Teknik Informatika,7,Bone,1,12.1,77.3,80.9,70.6,83.1,2100000
+MHS313,Perempuan,Pendidikan Teknik Informatika,3,Makassar,0,10.8,62.6,75.8,82.6,71.9,2900000
+MHS314,Perempuan,Teknik Komputer,7,Maros,1,17.9,72.5,76.2,76.6,86.6,2250000
+MHS315,Perempuan,Teknik Komputer,1,Maros,2,20.5,86.2,83.5,81.9,78.1,3300000
+MHS316,Perempuan,Teknik Elektro,1,Takalar,2,12.5,92.4,76.5,83.6,71.2,3050000
+MHS317,Laki-laki,Teknik Komputer,3,Bone,2,17.3,72.1,96.3,92.8,100.0,700000
+MHS318,Laki-laki,Pendidikan TI,7,Takalar,2,16.3,89.1,85.4,78.3,85.5,2600000
+MHS319,Laki-laki,Teknik Komputer,7,Takalar,0,5.4,80.5,62.6,63.4,61.2,2850000
+MHS320,Laki-laki,Teknik Elektro,7,Maros,1,15.2,86.9,81.1,71.5,72.1,3250000
+MHS321,Perempuan,Teknik Elektro,7,Makassar,0,12.4,84.6,82.5,77.6,66.3,2050000
+MHS322,Laki-laki,Teknik Komputer,3,Takalar,0,11.2,72.5,89.1,89.0,100.0,2150000
+MHS323,Laki-laki,Pendidikan Teknik Informatika,3,Parepare,1,12.6,82.5,70.6,84.7,86.9,2400000
+MHS324,Laki-laki,Pendidikan Teknik Informatika,1,Bone,2,8.5,82.2,58.4,65.2,45.9,3400000
+MHS325,Laki-laki,Teknik Elektro,3,Makassar,1,5.8,75.2,64.7,78.3,61.5,1550000
+MHS326,Perempuan,Pendidikan Teknik Informatika,5,Maros,1,15.3,91.1,76.5,79.2,95.3,1800000
+MHS327,Laki-laki,Teknik Komputer,3,Bone,2,9.0,68.4,86.6,83.1,79.0,2800000
+MHS328,Perempuan,Teknik Elektro,1,Maros,1,4.2,75.5,58.9,70.9,59.0,2250000
+MHS329,Laki-laki,Teknik Elektro,1,Makassar,1,13.8,85.9,92.0,91.9,81.1,1100000
+MHS330,Laki-laki,Teknik Elektro,5,Gowa,2,19.7,88.0,100.0,100.0,86.3,3200000
+MHS331,Perempuan,Teknik Komputer,5,Parepare,2,16.0,81.5,99.1,97.4,100.0,550000
+MHS332,Perempuan,Teknik Komputer,7,Gowa,3,10.9,73.9,72.1,66.8,69.0,1300000
+MHS333,Perempuan,Pendidikan Teknik Informatika,3,Parepare,0,18.8,82.0,93.6,89.6,97.7,1150000
+MHS334,Perempuan,Teknik Komputer,5,Takalar,2,13.8,88.8,85.5,,78.5,3300000
+MHS335,Perempuan,Pendidikan Teknik Informatika,5,Makassar,2,11.3,90.1,84.0,73.0,81.0,2750000
+MHS336,Perempuan,Teknik Komputer,5,Gowa,2,10.6,78.9,86.3,66.7,67.4,2850000
+MHS337,Laki-laki,Teknik Komputer,5,Takalar,1,6.9,71.0,73.2,74.9,65.6,1000000
+MHS338,Perempuan,Pendidikan Teknik Informatika,5,Makassar,3,14.2,78.0,80.8,98.3,89.6,1300000
+MHS339,Perempuan,Teknik Elektro,1,Makassar,0,17.3,82.3,91.4,83.5,78.2,3350000
+MHS340,Perempuan,Teknik Komputer,3,Bone,2,17.3,75.9,81.6,85.5,82.3,600000
+MHS341,Perempuan,Teknik Elektro,5,Makassar,0,19.2,89.8,83.5,84.6,91.0,2150000
+MHS342,Perempuan,Teknik Elektro,7,Takalar,1,11.0,87.6,90.4,98.8,94.2,700000
+MHS343,Laki-laki,Pendidikan Teknik Informatika,1,Maros,2,12.0,88.2,77.4,72.6,88.9,2500000
+MHS344,Laki-laki,Teknik Elektro,3,Gowa,2,14.8,70.1,87.9,74.7,96.0,3200000
+MHS345,Perempuan,Teknik Komputer,3,Makassar,0,8.9,81.5,73.4,74.8,85.7,1950000
+MHS346,Laki-laki,Pendidikan Teknik Informatika,3,Gowa,0,10.2,80.9,89.9,80.8,82.9,2800000
+MHS347,Perempuan,Teknik Elektro,1,Maros,2,12.5,90.3,64.3,61.8,78.6,1500000
+MHS348,Laki-laki,Pendidikan Teknik Informatika,1,Gowa,1,7.2,88.4,78.4,64.1,68.2,1850000
+MHS349,Perempuan,Teknik Komputer,1,Maros,1,13.7,97.9,79.4,81.2,84.4,2500000
+MHS350,Perempuan,Pendidikan Teknik Informatika,5,Maros,1,17.0,92.3,96.5,99.3,78.6,1300000
+MHS351,Perempuan,Teknik Elektro,1,Parepare,0,17.2,86.1,98.6,87.6,100.0,650000
+MHS352,Perempuan,Teknik Elektro,7,Parepare,2,10.6,89.2,73.5,77.5,89.2,2650000
+MHS353,Laki-laki,Pendidikan Teknik Informatika,5,Bone,0,13.2,100.0,94.0,93.0,89.5,1150000
+MHS354,Laki-laki,Teknik Elektro,3,Parepare,2,13.6,84.1,80.5,81.7,89.0,3300000
+MHS355,Laki-laki,Teknik Elektro,5,Takalar,1,11.3,85.7,85.4,81.5,75.6,20000000
+MHS356,Perempuan,Teknik Elektro,3,Takalar,2,8.6,93.7,76.4,68.7,92.8,2650000
+MHS357,Perempuan,Pendidikan Teknik Informatika,5,Takalar,2,12.8,84.4,83.8,86.5,96.0,1700000
+MHS358,Laki-laki,Teknik Komputer,3,Gowa,1,12.1,81.1,91.5,79.0,72.5,2500000
+MHS359,Perempuan,Teknik Komputer,3,Parepare,2,13.7,85.3,79.7,77.7,78.4,2900000
+MHS360,Laki-laki,Teknik Komputer,3,Maros,3,8.4,84.1,83.1,90.6,74.5,1700000
+MHS361,Laki-laki,Teknik Komputer,7,Bone,3,14.1,81.4,82.2,89.7,72.9,1250000
+MHS362,,Teknik Komputer,5,Takalar,1,16.0,88.3,89.5,71.7,85.4,3350000
+MHS363,Perempuan,Teknik Komputer,1,Gowa,1,11.7,83.5,76.6,86.3,87.6,1050000
+MHS364,Laki-laki,Teknik Elektro,7,Bone,1,16.9,76.2,79.9,60.9,75.3,1950000
+MHS365,Laki-laki,Pendidikan Teknik Informatika,3,Maros,1,13.4,100.0,93.6,77.7,85.4,3450000
+MHS366,Laki-laki,Teknik Elektro,1,Bone,0,9.1,74.9,77.7,77.1,81.9,1550000
+MHS367,Perempuan,Teknik Elektro,7,Bone,1,42.0,96.9,77.8,82.6,73.0,2050000
+MHS368,Perempuan,Pendidikan Teknik Informatika,5,Bone,1,10.7,72.5,77.2,80.9,73.3,3450000
+MHS369,Laki-laki,Teknik Komputer,3,Bone,1,9.8,93.6,69.2,84.2,93.1,500000
+MHS370,Laki-laki,Teknik Komputer,7,Bone,1,15.1,87.2,88.7,71.0,100.0,3100000
+MHS371,Perempuan,Teknik Elektro,1,Gowa,1,10.0,87.0,65.4,70.5,74.0,3000000
+MHS372,Laki-laki,Teknik Elektro,3,Parepare,0,12.5,85.2,100.0,92.8,85.2,2150000
+MHS373,Perempuan,Teknik Elektro,3,Bone,0,9.9,67.8,64.0,55.9,61.7,1950000
+MHS374,Perempuan,Teknik Komputer,3,Takalar,3,9.7,82.2,76.6,78.6,77.3,1000000
+MHS375,Perempuan,Teknik Elektro,5,Parepare,1,9.2,91.4,83.2,78.4,65.7,2950000
+MHS376,Laki-laki,Pendidikan Teknik Informatika,1,Maros,0,3.9,65.9,61.2,55.5,81.7,2650000
+MHS377,Laki-laki,Teknik Elektro,5,Gowa,1,7.1,92.9,76.7,72.0,76.6,1400000
+MHS378,Perempuan,Teknik Komputer,3,Takalar,2,12.8,90.9,86.9,88.1,69.2,2000000
+MHS379,Laki-laki,Teknik Komputer,1,Makassar,2,9.6,75.6,70.9,82.9,78.6,3100000
+MHS380,Perempuan,Pendidikan Teknik Informatika,5,Takalar,0,12.9,75.5,78.4,77.3,79.5,2250000
+MHS381,Perempuan,Teknik Elektro,1,Bone,1,16.9,74.4,85.0,76.3,82.5,550000
+MHS382,Laki-laki,Teknik Elektro,3,Takalar,1,10.0,94.8,86.0,78.3,87.7,3050000
+MHS383,Perempuan,Pendidikan Teknik Informatika,3,Takalar,1,6.7,91.5,74.5,60.0,72.8,2900000
+MHS384,Laki-laki,Teknik Komputer,5,Gowa,1,14.1,80.9,79.3,84.2,86.3,2250000
+MHS385,Perempuan,Teknik Komputer,5,Takalar,1,7.7,81.1,71.7,77.1,71.5,2500000
+MHS386,Laki-laki,Pendidikan Teknik Informatika,5,Maros,1,3.9,78.1,69.3,76.5,78.4,3050000
+MHS387,Laki-laki,Teknik Elektro,3,Maros,1,10.4,76.8,66.4,70.6,80.3,3150000
+MHS388,Laki-laki,Teknik Komputer,5,Takalar,1,5.5,78.2,75.3,72.8,79.9,1700000
+MHS389,Perempuan,Teknik Elektro,7,Maros,2,14.3,66.4,75.9,75.9,82.5,600000
+MHS390,Laki-laki,Teknik Elektro,3,Parepare,1,12.2,71.7,86.1,92.8,,2500000
+MHS391,Laki-laki,Teknik Komputer,7,Bone,2,15.2,88.1,97.8,94.3,86.3,1550000
+MHS392,Perempuan,Pendidikan Teknik Informatika,3,Gowa,1,13.0,86.9,83.8,78.3,67.3,2750000
+MHS393,Perempuan,Teknik Elektro,7,Gowa,3,11.7,80.3,69.4,65.5,64.7,2700000
+MHS394,Perempuan,Pendidikan Teknik Informatika,7,Bone,1,15.4,88.7,85.8,90.8,84.0,1050000
+MHS395,Perempuan,Pendidikan Teknik Informatika,7,Bone,0,21.1,75.9,93.1,85.7,94.8,1450000
+MHS396,Laki-laki,Teknik Elektro,5,Gowa,1,8.8,82.0,88.4,74.2,85.4,1600000
+MHS397,Laki-laki,Pendidikan Teknik Informatika,3,Bone,2,18.6,77.2,84.5,85.7,72.8,2250000
+MHS398,Laki-laki,Teknik Komputer,3,Gowa,1,8.9,76.6,81.4,73.0,74.9,700000
+MHS399,Laki-laki,Teknik Komputer,1,Maros,1,11.1,72.4,81.4,70.2,77.9,1800000
+MHS400,Perempuan,Pendidikan Teknik Informatika,7,Parepare,2,8.8,98.5,80.4,79.3,76.9,2450000
+MHS401,Laki-laki,Teknik Komputer,5,Takalar,2,17.4,94.5,99.9,78.6,94.9,650000
+MHS402,Laki-laki,Pendidikan Teknik Informatika,1,Bone,2,13.5,92.7,95.9,100.0,100.0,2800000
+MHS403,Laki-laki,Pendidikan Teknik Informatika,7,Parepare,1,,87.0,61.7,72.1,80.9,550000
+MHS404,Laki-laki,Pendidikan Teknik Informatika,1,Takalar,2,13.7,85.1,80.0,78.0,80.2,900000
+MHS405,Laki-laki,Teknik Komputer,7,Makassar,2,6.9,100.0,74.7,72.0,79.1,2750000
+MHS406,Laki-laki,Teknik Komputer,7,Gowa,1,7.1,80.9,75.0,64.2,63.7,2100000
+MHS407,Perempuan,Teknik Elektro,3,Maros,2,8.2,85.8,80.9,73.1,77.2,1950000
+MHS408,Perempuan,Teknik Elektro,7,Maros,2,6.0,75.8,80.3,60.8,78.7,2750000
+MHS409,Perempuan,Pendidikan Teknik Informatika,1,Parepare,1,11.7,68.5,71.1,67.9,68.5,750000
+MHS410,Perempuan,Teknik Komputer,7,Bone,0,11.7,93.0,83.3,78.1,78.2,1050000
+MHS411,Laki-laki,Teknik Komputer,3,Makassar,1,16.7,91.1,87.9,81.4,91.2,1550000
+MHS412,Laki-laki,Pendidikan Teknik Informatika,3,Bone,2,21.5,86.5,78.9,90.3,79.6,3200000
+MHS413,Laki-laki,Pendidikan Teknik Informatika,7,Maros,2,17.7,89.0,79.7,80.6,77.4,1400000
+MHS414,Laki-laki,Teknik Komputer,3,Bone,1,14.5,96.0,68.8,63.6,69.3,950000
+MHS415,Perempuan,Teknik Elektro,7,Parepare,2,14.3,81.8,91.7,83.0,90.1,3000000
+MHS416,Perempuan,Pendidikan Teknik Informatika,5,Bone,3,10.8,91.9,76.2,78.0,69.6,2850000
+MHS417,Laki-laki,Pendidikan Teknik Informatika,5,Maros,3,8.7,87.6,60.4,65.6,68.1,1750000
+MHS418,Laki-laki,Pendidikan Teknik Informatika,3,Gowa,2,19.9,87.0,88.3,81.6,87.6,2900000
+MHS419,Laki-laki,Teknik Komputer,1,Takalar,1,15.0,90.8,81.4,82.4,79.0,2200000
+MHS420,Laki-laki,Teknik Elektro,1,Parepare,1,7.9,86.0,78.5,82.5,78.9,3200000
+MHS421,Perempuan,Teknik Komputer,7,Makassar,2,15.7,81.6,87.6,92.5,88.5,1450000
+MHS422,Laki-laki,Teknik Elektro,7,Makassar,1,17.3,87.6,98.9,,95.7,2150000
+MHS423,Perempuan,Teknik Elektro,1,Gowa,1,13.0,80.6,83.8,76.6,67.8,1600000
+MHS424,Laki-laki,Pendidikan Teknik Informatika,7,Parepare,0,15.9,92.7,80.5,81.2,89.4,2700000
+MHS425,Laki-laki,Teknik Komputer,1,Maros,2,8.5,100.0,90.3,78.6,88.7,1850000
+MHS426,Perempuan,Teknik Elektro,1,Maros,0,8.1,97.0,73.8,63.6,86.0,1500000
+MHS427,Laki-laki,Teknik Elektro,5,Gowa,2,13.7,81.9,100.0,100.0,89.3,1700000
+MHS428,Laki-laki,Pendidikan Teknik Informatika,1,Maros,1,15.2,85.8,81.8,75.2,80.7,2550000
+MHS429,Laki-laki,Teknik Elektro,1,Takalar,1,11.9,83.0,87.1,83.9,71.7,700000
+MHS430,Perempuan,Teknik Elektro,1,Makassar,1,11.5,100.0,68.4,88.8,77.8,3200000
+MHS431,Perempuan,Teknik Komputer,7,Bone,3,15.3,89.1,87.6,93.4,99.8,2400000
+MHS432,Laki-laki,Teknik Komputer,3,Bone,1,5.9,85.8,82.5,76.0,86.0,2600000
+MHS433,Perempuan,Teknik Komputer,5,Takalar,2,12.9,83.2,76.7,84.7,91.0,3250000
+MHS434,Laki-laki,Teknik Komputer,7,Bone,3,8.2,77.7,79.0,84.0,91.8,3050000
+MHS435,Perempuan,Pendidikan Teknik Informatika,3,Gowa,2,7.2,79.1,77.0,66.8,57.6,1050000
+MHS436,Perempuan,Teknik Komputer,3,Maros,0,6.3,82.4,86.0,76.3,77.8,1850000
+MHS437,Perempuan,Pendidikan Teknik Informatika,5,Takalar,2,15.0,74.7,81.3,83.6,87.1,600000
+MHS438,Perempuan,Teknik Elektro,3,Bone,1,11.1,78.0,71.3,65.0,75.4,3500000
+MHS439,Perempuan,Teknik Komputer,7,Takalar,1,14.0,89.9,79.3,85.4,62.3,1450000
+MHS440,Laki-laki,Teknik Komputer,1,Gowa,3,20.5,83.6,89.1,81.7,89.4,2200000
+MHS441,Laki-laki,Teknik Elektro,7,Parepare,1,7.5,76.5,64.0,74.1,56.5,2700000
+MHS442,Laki-laki,Pendidikan Teknik Informatika,7,Makassar,2,12.6,94.9,85.6,74.7,93.6,700000
+MHS443,Laki-laki,Pendidikan Teknik Informatika,7,Takalar,2,13.0,78.5,88.2,91.9,77.6,1100000
+MHS444,Perempuan,Teknik Elektro,7,Makassar,2,17.8,94.1,97.4,100.0,100.0,2400000
+MHS445,Laki-laki,Teknik Komputer,7,Bone,2,19.1,74.9,97.5,86.5,84.0,1200000
+MHS446,Laki-laki,Teknik Komputer,1,Parepare,1,9.3,92.4,76.7,51.7,68.4,2100000
+MHS447,Perempuan,Teknik Komputer,3,Maros,1,11.3,81.2,80.2,78.8,73.4,1800000
+MHS448,Perempuan,Pendidikan Teknik Informatika,3,Makassar,2,12.8,84.8,82.1,72.6,82.0,500000
+MHS449,Perempuan,Teknik Komputer,3,Bone,2,8.4,87.5,75.7,78.2,70.7,3150000
+MHS450,Laki-laki,Teknik Komputer,3,Gowa,0,11.2,88.6,90.0,81.7,83.4,850000
+MHS451,Laki-laki,Teknik Komputer,7,Gowa,0,11.2,96.5,73.6,61.0,70.9,2950000
+MHS452,Perempuan,Teknik Komputer,1,Maros,1,18.4,76.1,80.8,95.6,93.0,1000000
+MHS453,Perempuan,Pendidikan Teknik Informatika,7,Bone,1,12.9,87.7,62.3,63.4,66.7,3400000
+MHS454,Perempuan,Pendidikan Teknik Informatika,5,Maros,1,16.2,84.8,97.8,81.3,90.8,2550000
+MHS455,Laki-laki,Teknik Elektro,3,Parepare,1,13.2,88.8,75.5,71.2,67.1,3100000
+MHS456,Perempuan,Pendidikan Teknik Informatika,1,Maros,1,13.5,79.8,71.3,75.1,79.2,1750000
+MHS457,Perempuan,Teknik Komputer,1,Parepare,1,8.4,91.3,85.8,90.8,100.0,3300000
+MHS458,Perempuan,Pendidikan Teknik Informatika,1,Parepare,0,15.0,92.4,87.8,81.3,98.2,750000
+MHS459,Perempuan,Teknik Elektro,5,Bone,1,14.1,96.8,80.5,77.3,100.0,1700000
+MHS460,Laki-laki,Pendidikan Teknik Informatika,7,Parepare,1,15.2,94.4,91.4,88.3,81.3,1800000
+MHS461,Laki-laki,Pendidikan Teknik Informatika,7,Makassar,1,12.8,93.7,87.1,85.1,90.9,650000
+MHS462,Laki-laki,Teknik Komputer,7,Bone,0,7.8,86.0,91.0,77.5,69.8,1850000
+MHS463,Laki-laki,Teknik Komputer,3,Gowa,2,6.4,88.2,73.1,80.9,67.1,3000000
+MHS464,Laki-laki,Pendidikan Teknik Informatika,7,Makassar,0,13.2,71.8,92.5,86.2,86.1,1350000
+MHS465,Laki-laki,Pendidikan Teknik Informatika,5,Bone,1,10.6,86.4,85.8,90.3,82.6,2650000
+MHS466,Laki-laki,Teknik Komputer,5,Bone,1,16.4,94.7,92.5,95.5,92.6,1900000
+MHS467,Perempuan,Teknik Komputer,3,Makassar,1,11.6,81.6,88.2,88.5,95.1,3000000
+MHS468,Perempuan,Teknik Elektro,5,Maros,1,14.7,97.8,86.7,97.1,81.2,2900000
+MHS469,Laki-laki,Teknik Komputer,7,Makassar,1,10.0,73.5,73.3,72.8,87.2,3100000
+MHS470,Perempuan,Pendidikan Teknik Informatika,7,Gowa,2,8.9,72.8,76.2,85.7,80.6,1950000
+MHS471,Perempuan,Pendidikan Teknik Informatika,3,Maros,2,,82.5,93.8,88.0,80.4,3200000
+MHS472,Laki-laki,Pendidikan Teknik Informatika,7,Takalar,1,12.7,91.0,92.2,89.7,88.5,3400000
+MHS473,Perempuan,Pendidikan Teknik Informatika,5,Bone,2,15.3,95.5,79.7,87.4,83.2,3000000
+MHS474,Perempuan,Pendidikan Teknik Informatika,1,Takalar,0,14.0,84.2,98.8,91.9,84.3,2550000
+MHS475,Laki-laki,Teknik Komputer,3,Gowa,2,17.2,78.5,91.7,94.8,98.7,2150000
+MHS476,Perempuan,Teknik Komputer,3,Parepare,2,10.3,98.5,65.3,83.7,69.5,1950000
+MHS477,Laki-laki,Teknik Elektro,1,Bone,3,10.8,87.4,83.2,74.4,76.8,3450000
+MHS478,Perempuan,Teknik Komputer,5,Makassar,1,11.3,77.3,81.3,68.4,82.7,3300000
+MHS479,Laki-laki,Pendidikan Teknik Informatika,3,Gowa,1,14.6,78.7,82.2,80.7,76.2,550000
+MHS480,Laki-laki,Teknik Elektro,1,Gowa,2,8.2,85.7,78.4,72.0,71.1,2400000
+MHS481,Perempuan,Teknik Elektro,3,Takalar,1,8.4,82.2,75.9,64.1,66.0,1500000
+MHS482,Perempuan,Pendidikan Teknik Informatika,5,Makassar,3,6.8,79.8,81.9,74.8,73.1,2700000
+MHS483,Perempuan,Pendidikan Teknik Informatika,1,Bone,2,16.3,89.8,75.3,94.8,92.4,2950000
+MHS484,Perempuan,Teknik Elektro,1,Maros,1,16.9,85.6,91.9,90.4,100.0,1750000
+MHS485,Perempuan,Teknik Komputer,1,Parepare,3,12.5,72.1,77.6,72.1,78.1,700000
+MHS486,Perempuan,Teknik Elektro,1,Maros,1,13.6,87.3,81.6,79.1,80.1,1600000
+MHS487,Laki-laki,Teknik Elektro,1,Bone,0,10.6,82.5,71.8,66.0,80.2,2550000
+MHS488,Laki-laki,Teknik Elektro,1,Maros,3,17.8,82.8,86.3,93.1,85.7,2100000
+MHS489,Laki-laki,Teknik Elektro,7,Parepare,1,14.1,97.6,87.9,80.0,77.0,1200000
+MHS490,Perempuan,Pendidikan Teknik Informatika,7,Maros,1,21.1,79.2,100.0,89.0,98.2,2700000
+MHS491,Perempuan,Teknik Komputer,5,Takalar,1,10.5,94.0,82.8,75.0,80.9,2300000
+MHS492,Perempuan,Pendidikan Teknik Informatika,5,Maros,2,12.3,95.6,76.8,73.6,85.9,1300000
+MHS493,Perempuan,Teknik Elektro,3,Maros,1,9.0,71.6,77.8,81.7,82.0,1400000
+MHS494,Perempuan,Pendidikan Teknik Informatika,3,Makassar,0,20.4,95.3,81.6,97.0,85.0,3450000
+MHS495,Laki-laki,Teknik Komputer,3,Takalar,2,16.7,78.9,98.0,96.4,93.4,2450000
+MHS021,Laki-laki,Teknik Elektro,1,Parepare,1,16.8,87.8,92.7,100.0,98.0,1300000
+MHS086,Perempuan,Teknik Elektro,5,Makassar,1,18.5,91.1,100.0,88.5,85.5,2850000
+MHS171,Perempuan,Pendidikan Teknik Informatika,5,Bone,2,18.3,85.8,88.7,92.8,94.1,2200000
+MHS261,Laki-laki,Pendidikan Teknik Informatika,7,Gowa,1,8.0,73.8,89.9,70.6,72.5,2100000
+MHS411,Laki-laki,Teknik Komputer,3,Makassar,1,16.7,91.1,87.9,81.4,91.2,1550000

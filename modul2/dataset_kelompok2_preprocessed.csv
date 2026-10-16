@@ -1,0 +1,396 @@
+Order_ID,Customer_ID,Jenis_Kelamin,Kota,Kategori_Produk,Metode_Pembayaran,Jumlah_Barang,Harga_Satuan,Diskon_Persen,Lama_Pengiriman_Hari,Rating_Pelanggan,Total_Belanja,Kategori_Pengiriman,Segmentasi_Belanja
+SCC-ORD0001,SCC-CUST160,Perempuan,Parepare,Elektronik,Kartu Kredit,5,2264799.0,5,7.0,4.6,10757795.25,Lama,Tinggi
+SCC-ORD0002,SCC-CUST140,Laki-laki,Parepare,Fashion,Transfer Bank,2,909222.0,20,5.0,3.7,1454755.2000000002,Normal,Menengah
+SCC-ORD0003,SCC-CUST072,Laki-laki,Gowa,Kesehatan,E-Wallet,2,164841.0,0,6.0,3.2,329682.0,Lama,Rendah
+SCC-ORD0004,SCC-CUST064,Perempuan,Parepare,Makanan,E-Wallet,1,87912.0,20,4.0,4.4,70329.6,Normal,Rendah
+SCC-ORD0005,SCC-CUST163,Laki-laki,Bone,Elektronik,COD,4,2534260.0,30,4.0,5.0,7095928.0,Normal,Tinggi
+SCC-ORD0006,SCC-CUST036,Laki-laki,Bone,Elektronik,E-Wallet,6,5649528.0,15,7.0,5.0,28812592.8,Lama,Tinggi
+SCC-ORD0007,SCC-CUST164,Laki-laki,Gowa,Kesehatan,Transfer Bank,1,118154.0,15,9.0,4.5,100430.9,Lama,Rendah
+SCC-ORD0008,SCC-CUST175,Laki-laki,Parepare,Kesehatan,Transfer Bank,1,22221.0,5,5.0,4.5,21109.95,Normal,Rendah
+SCC-ORD0009,SCC-CUST177,Laki-laki,Bone,Makanan,Kartu Kredit,3,290627.0,0,6.0,4.1,871881.0,Lama,Menengah
+SCC-ORD0010,SCC-CUST017,Laki-laki,Takalar,Elektronik,Kartu Kredit,5,4400749.0,5,2.0,3.7,20903557.75,Cepat,Tinggi
+SCC-ORD0011,SCC-CUST088,Laki-laki,Takalar,Fashion,Kartu Kredit,2,493644.0,25,3.0,4.7,740466.0,Cepat,Menengah
+SCC-ORD0012,SCC-CUST052,Perempuan,Parepare,Kesehatan,E-Wallet,2,46672.0,10,6.0,3.6,84009.6,Lama,Rendah
+SCC-ORD0013,SCC-CUST176,Laki-laki,Gowa,Makanan,COD,2,292850.0,15,4.0,4.0,497845.0,Normal,Rendah
+SCC-ORD0014,SCC-CUST093,Perempuan,Maros,Makanan,Transfer Bank,1,347432.0,25,6.0,3.8,260574.0,Lama,Rendah
+SCC-ORD0015,SCC-CUST131,Laki-laki,Parepare,Rumah Tangga,E-Wallet,4,1734498.0,5,3.0,4.9,6591092.399999999,Cepat,Tinggi
+SCC-ORD0016,SCC-CUST165,Laki-laki,Maros,Makanan,COD,2,216029.0,30,5.0,4.1,302440.6,Normal,Rendah
+SCC-ORD0017,SCC-CUST011,Perempuan,Gowa,Rumah Tangga,COD,2,84894.0,30,8.0,3.9,118851.59999999999,Lama,Rendah
+SCC-ORD0018,SCC-CUST184,Perempuan,Parepare,Rumah Tangga,COD,2,402221.0,0,6.0,5.0,804442.0,Lama,Menengah
+SCC-ORD0019,SCC-CUST109,Laki-laki,Makassar,Fashion,Transfer Bank,4,938422.0,10,1.0,3.8,3378319.2,Cepat,Tinggi
+SCC-ORD0020,SCC-CUST188,Laki-laki,Takalar,Fashion,Transfer Bank,5,1069839.0,10,4.0,3.0,4814275.5,Normal,Tinggi
+SCC-ORD0021,SCC-CUST117,Laki-laki,Bone,Kesehatan,E-Wallet,3,345894.0,5,2.0,4.8,985797.8999999999,Cepat,Menengah
+SCC-ORD0022,SCC-CUST046,Laki-laki,Makassar,Rumah Tangga,Kartu Kredit,1,528648.0,30,4.0,4.1,370053.6,Normal,Rendah
+SCC-ORD0023,SCC-CUST069,Perempuan,Gowa,Makanan,Transfer Bank,3,308376.0,10,5.0,4.1,832615.2000000001,Normal,Menengah
+SCC-ORD0024,SCC-CUST068,Laki-laki,Takalar,Kesehatan,Kartu Kredit,2,816295.0,30,4.0,4.8,1142813.0,Normal,Menengah
+SCC-ORD0025,SCC-CUST032,Perempuan,Gowa,Makanan,Transfer Bank,1,347883.0,25,9.0,4.3,260912.25,Lama,Rendah
+SCC-ORD0026,SCC-CUST072,Perempuan,Parepare,Rumah Tangga,COD,3,335398.0,25,5.0,4.4,754645.5,Normal,Menengah
+SCC-ORD0027,SCC-CUST124,Perempuan,Bone,Kesehatan,E-Wallet,2,642877.0,30,6.0,5.0,900027.7999999999,Lama,Menengah
+SCC-ORD0028,SCC-CUST075,Perempuan,Takalar,Kesehatan,E-Wallet,2,442566.0,10,5.0,4.6,796618.8,Normal,Menengah
+SCC-ORD0029,SCC-CUST098,Perempuan,Makassar,Fashion,COD,55,1127580.0,25,2.0,5.0,46512675.0,Cepat,Tinggi
+SCC-ORD0030,SCC-CUST108,Laki-laki,Takalar,Makanan,E-Wallet,2,330709.0,25,7.0,4.8,496063.5,Lama,Rendah
+SCC-ORD0031,SCC-CUST028,Perempuan,Gowa,Rumah Tangga,COD,3,1360714.0,5,7.0,4.3,3878034.9,Lama,Tinggi
+SCC-ORD0032,SCC-CUST058,Perempuan,Gowa,Elektronik,COD,1,827551.0,25,9.0,3.6,620663.25,Lama,Menengah
+SCC-ORD0033,SCC-CUST188,Laki-laki,Makassar,Kesehatan,Kartu Kredit,1,127550.0,15,4.0,4.1,108417.5,Normal,Rendah
+SCC-ORD0034,SCC-CUST166,Perempuan,Maros,Makanan,E-Wallet,1,124356.0,10,5.0,3.9,111920.40000000001,Normal,Rendah
+SCC-ORD0035,SCC-CUST131,Perempuan,Bone,Makanan,Transfer Bank,4,105314.0,20,5.0,4.1,337004.80000000005,Normal,Rendah
+SCC-ORD0036,SCC-CUST031,Laki-laki,Bone,Makanan,Kartu Kredit,2,229453.0,30,5.0,4.1,321234.19999999995,Normal,Rendah
+SCC-ORD0037,SCC-CUST209,Laki-laki,Takalar,Makanan,E-Wallet,1,149260.0,0,5.0,4.9,149260.0,Normal,Rendah
+SCC-ORD0038,SCC-CUST108,Laki-laki,Bone,Makanan,COD,1,138062.0,30,3.0,4.8,96643.4,Cepat,Rendah
+SCC-ORD0039,SCC-CUST197,Laki-laki,Maros,Makanan,COD,4,19331.0,15,4.0,3.1,65725.4,Normal,Rendah
+SCC-ORD0040,SCC-CUST002,Laki-laki,Bone,Kesehatan,Transfer Bank,1,628107.0,25,5.0,3.5,471080.25,Normal,Rendah
+SCC-ORD0041,SCC-CUST188,Perempuan,Takalar,Rumah Tangga,Kartu Kredit,3,727788.0,5,1.0,3.6,2074195.7999999998,Cepat,Tinggi
+SCC-ORD0042,SCC-CUST091,Perempuan,Bone,Fashion,E-Wallet,2,448685.0,30,4.0,4.1,628159.0,Normal,Menengah
+SCC-ORD0043,SCC-CUST094,Perempuan,Makassar,Rumah Tangga,COD,3,226170.0,10,5.0,3.9,610659.0,Normal,Menengah
+SCC-ORD0044,SCC-CUST136,Laki-laki,Maros,Elektronik,E-Wallet,4,3989610.0,30,7.0,4.5,11170908.0,Lama,Tinggi
+SCC-ORD0045,SCC-CUST073,Laki-laki,Maros,Elektronik,Kartu Kredit,1,5587869.0,25,7.0,4.6,4190901.75,Lama,Tinggi
+SCC-ORD0046,SCC-CUST180,Perempuan,Maros,Fashion,E-Wallet,2,1001251.0,25,4.0,3.3,1501876.5,Normal,Menengah
+SCC-ORD0047,SCC-CUST206,Laki-laki,Takalar,Elektronik,Transfer Bank,2,4650211.0,0,8.0,4.9,9300422.0,Lama,Tinggi
+SCC-ORD0048,SCC-CUST090,Laki-laki,Maros,Elektronik,E-Wallet,3,3798781.0,10,3.0,3.9,10256708.700000001,Cepat,Tinggi
+SCC-ORD0049,SCC-CUST186,Laki-laki,Makassar,Elektronik,E-Wallet,1,4654292.0,15,7.0,4.9,3956148.1999999997,Lama,Tinggi
+SCC-ORD0050,SCC-CUST120,Laki-laki,Parepare,Fashion,COD,2,574949.0,5,7.0,3.7,1092403.0999999999,Lama,Menengah
+SCC-ORD0051,SCC-CUST215,Perempuan,Bone,Fashion,E-Wallet,3,565217.0,30,5.0,3.8,1186955.7,Normal,Menengah
+SCC-ORD0052,SCC-CUST210,Perempuan,Bone,Rumah Tangga,E-Wallet,2,114200.0,30,3.0,4.5,159880.0,Cepat,Rendah
+SCC-ORD0053,SCC-CUST007,Perempuan,Bone,Rumah Tangga,Kartu Kredit,1,893973.0,15,4.0,3.1,759877.0499999999,Normal,Menengah
+SCC-ORD0054,SCC-CUST160,Laki-laki,Takalar,Fashion,E-Wallet,4,935964.0,10,4.0,4.9,3369470.4,Normal,Tinggi
+SCC-ORD0055,SCC-CUST154,Perempuan,Bone,Fashion,E-Wallet,1,376648.0,30,2.0,4.0,263653.6,Cepat,Rendah
+SCC-ORD0056,SCC-CUST042,Laki-laki,Takalar,Fashion,E-Wallet,1,706466.0,0,1.0,2.9,706466.0,Cepat,Menengah
+SCC-ORD0057,SCC-CUST208,Laki-laki,Maros,Rumah Tangga,COD,2,1629540.0,30,3.0,4.1,2281356.0,Cepat,Tinggi
+SCC-ORD0058,SCC-CUST203,Laki-laki,Maros,Kesehatan,Transfer Bank,3,714938.0,20,3.0,4.1,1715851.2000000002,Cepat,Menengah
+SCC-ORD0059,SCC-CUST062,Laki-laki,Maros,Elektronik,Kartu Kredit,3,2007903.0,30,4.0,5.0,4216596.3,Normal,Tinggi
+SCC-ORD0060,SCC-CUST169,Laki-laki,Maros,Makanan,COD,4,227552.0,25,5.0,4.7,682656.0,Normal,Menengah
+SCC-ORD0061,SCC-CUST156,Perempuan,Makassar,Rumah Tangga,COD,2,186909.0,20,5.0,3.5,299054.4,Normal,Rendah
+SCC-ORD0062,SCC-CUST096,Perempuan,Gowa,Fashion,COD,2,554999.0,0,7.0,3.1,1109998.0,Lama,Menengah
+SCC-ORD0063,SCC-CUST015,Laki-laki,Makassar,Rumah Tangga,E-Wallet,3,671614.0,0,4.0,4.2,2014842.0,Normal,Tinggi
+SCC-ORD0064,SCC-CUST040,Laki-laki,Makassar,Kesehatan,E-Wallet,1,131636.0,5,5.0,4.0,125054.2,Normal,Rendah
+SCC-ORD0065,SCC-CUST026,Laki-laki,Parepare,Fashion,Kartu Kredit,3,934618.0,25,4.0,3.7,2102890.5,Normal,Tinggi
+SCC-ORD0066,SCC-CUST093,Laki-laki,Maros,Kesehatan,COD,6,122847.0,10,6.0,4.9,663373.8,Lama,Menengah
+SCC-ORD0067,SCC-CUST106,Laki-laki,Makassar,Fashion,E-Wallet,2,903262.0,0,4.0,4.1,1806524.0,Normal,Menengah
+SCC-ORD0068,SCC-CUST135,Perempuan,Gowa,Makanan,Kartu Kredit,2,26648.0,30,5.0,3.7,37307.2,Normal,Rendah
+SCC-ORD0069,SCC-CUST156,Perempuan,Takalar,Rumah Tangga,Kartu Kredit,4,1634683.0,30,2.0,4.7,4577112.399999999,Cepat,Tinggi
+SCC-ORD0070,SCC-CUST137,Perempuan,Bone,Rumah Tangga,E-Wallet,3,1073427.0,30,2.0,5.0,2254196.6999999997,Cepat,Tinggi
+SCC-ORD0071,SCC-CUST166,Laki-laki,Makassar,Makanan,E-Wallet,1,321193.0,5,1.0,3.2,305133.35,Cepat,Rendah
+SCC-ORD0072,SCC-CUST016,Perempuan,Makassar,Elektronik,Transfer Bank,3,688638.0,0,2.0,3.4,2065914.0,Cepat,Tinggi
+SCC-ORD0073,SCC-CUST154,Laki-laki,Bone,Elektronik,Transfer Bank,2,3442708.0,30,5.0,4.1,4819791.199999999,Normal,Tinggi
+SCC-ORD0074,SCC-CUST110,Perempuan,Gowa,Makanan,Transfer Bank,2,94480.0,5,2.0,4.6,179512.0,Cepat,Rendah
+SCC-ORD0075,SCC-CUST098,Laki-laki,Bone,Fashion,Kartu Kredit,5,734306.0,15,3.0,3.8,3120800.5,Cepat,Tinggi
+SCC-ORD0076,SCC-CUST219,Laki-laki,Takalar,Rumah Tangga,E-Wallet,2,1092957.0,5,4.0,4.2,2076618.2999999998,Normal,Tinggi
+SCC-ORD0077,SCC-CUST215,Laki-laki,Makassar,Rumah Tangga,E-Wallet,2,1607824.0,25,8.0,4.1,2411736.0,Lama,Tinggi
+SCC-ORD0078,SCC-CUST179,Laki-laki,Maros,Makanan,E-Wallet,1,58508.0,30,6.0,4.4,40955.6,Lama,Rendah
+SCC-ORD0079,SCC-CUST203,Laki-laki,Maros,Fashion,COD,2,272414.0,30,5.0,3.9,381379.6,Normal,Rendah
+SCC-ORD0080,SCC-CUST054,Laki-laki,Maros,Rumah Tangga,E-Wallet,2,1700064.0,5,4.0,4.2,3230121.5999999996,Normal,Tinggi
+SCC-ORD0081,SCC-CUST011,Perempuan,Parepare,Elektronik,Transfer Bank,1,2884222.0,15,5.0,3.7,2451588.6999999997,Normal,Tinggi
+SCC-ORD0082,SCC-CUST033,Laki-laki,Maros,Makanan,Transfer Bank,1,314220.0,30,3.0,4.5,219954.0,Cepat,Rendah
+SCC-ORD0083,SCC-CUST059,Laki-laki,Bone,Fashion,COD,2,458081.0,10,9.0,4.3,824545.8,Lama,Menengah
+SCC-ORD0084,SCC-CUST205,Perempuan,Makassar,Elektronik,Transfer Bank,3,5598477.0,0,7.0,5.0,16795431.0,Lama,Tinggi
+SCC-ORD0085,SCC-CUST209,Perempuan,Takalar,Kesehatan,COD,1,504594.0,15,7.0,5.0,428904.89999999997,Lama,Rendah
+SCC-ORD0086,SCC-CUST217,Laki-laki,Parepare,Rumah Tangga,Transfer Bank,2,97936.0,5,4.0,4.7,186078.4,Normal,Rendah
+SCC-ORD0087,SCC-CUST178,Laki-laki,Maros,Fashion,COD,1,617837.0,0,3.0,4.4,617837.0,Cepat,Menengah
+SCC-ORD0088,SCC-CUST178,Laki-laki,Bone,Makanan,E-Wallet,3,147709.0,25,4.0,4.2,332345.25,Normal,Rendah
+SCC-ORD0089,SCC-CUST055,Laki-laki,Takalar,Kesehatan,E-Wallet,1,894218.0,15,4.0,4.3,760085.2999999999,Normal,Menengah
+SCC-ORD0090,SCC-CUST218,Perempuan,Gowa,Rumah Tangga,Kartu Kredit,1,1476688.0,10,5.0,4.0,1329019.2,Normal,Menengah
+SCC-ORD0091,SCC-CUST097,Perempuan,Maros,Fashion,COD,5,1187243.0,30,3.0,3.4,4155350.4999999995,Cepat,Tinggi
+SCC-ORD0092,SCC-CUST206,Perempuan,Gowa,Kesehatan,Transfer Bank,6,321104.0,30,4.0,4.0,1348636.7999999998,Normal,Menengah
+SCC-ORD0093,SCC-CUST099,Laki-laki,Bone,Makanan,E-Wallet,1,289594.0,25,5.0,4.1,217195.5,Normal,Rendah
+SCC-ORD0094,SCC-CUST212,Perempuan,Bone,Rumah Tangga,COD,1,1713385.0,0,7.0,4.3,1713385.0,Lama,Menengah
+SCC-ORD0095,SCC-CUST014,Laki-laki,Parepare,Kesehatan,COD,2,628107.0,20,6.0,3.3,1004971.2000000001,Lama,Menengah
+SCC-ORD0096,SCC-CUST129,Laki-laki,Parepare,Kesehatan,Kartu Kredit,6,262954.0,15,5.0,4.1,1341065.4,Normal,Menengah
+SCC-ORD0097,SCC-CUST035,Perempuan,Bone,Makanan,Kartu Kredit,1,251610.0,25,3.0,5.0,188707.5,Cepat,Rendah
+SCC-ORD0098,SCC-CUST137,Laki-laki,Maros,Rumah Tangga,Transfer Bank,1,331871.0,15,6.0,4.9,282090.35,Lama,Rendah
+SCC-ORD0099,SCC-CUST175,Perempuan,Gowa,Elektronik,COD,1,4678092.0,25,5.0,4.3,3508569.0,Normal,Tinggi
+SCC-ORD0100,SCC-CUST126,Laki-laki,Bone,Elektronik,Transfer Bank,1,617536.0,20,3.0,4.9,494028.80000000005,Cepat,Rendah
+SCC-ORD0101,SCC-CUST016,Laki-laki,Parepare,Elektronik,Transfer Bank,4,1698775.0,15,7.0,4.7,5775835.0,Lama,Tinggi
+SCC-ORD0102,SCC-CUST045,Perempuan,Takalar,Kesehatan,COD,1,546805.0,15,8.0,3.2,464784.25,Lama,Rendah
+SCC-ORD0103,SCC-CUST047,Laki-laki,Maros,Rumah Tangga,Transfer Bank,1,1822687.0,30,4.0,4.0,1275880.9,Normal,Menengah
+SCC-ORD0104,SCC-CUST196,Perempuan,Maros,Elektronik,COD,2,3719118.0,25,1.0,4.6,5578677.0,Cepat,Tinggi
+SCC-ORD0105,SCC-CUST061,Perempuan,Parepare,Kesehatan,Kartu Kredit,4,40000000.0,10,9.0,3.9,144000000.0,Lama,Tinggi
+SCC-ORD0106,SCC-CUST060,Laki-laki,Gowa,Makanan,COD,4,109242.0,30,5.0,4.1,305877.6,Normal,Rendah
+SCC-ORD0107,SCC-CUST183,Laki-laki,Parepare,Elektronik,COD,2,5739676.0,5,3.0,4.0,10905384.4,Cepat,Tinggi
+SCC-ORD0108,SCC-CUST109,Laki-laki,Bone,Fashion,Transfer Bank,5,534365.0,5,2.0,5.0,2538233.75,Cepat,Tinggi
+SCC-ORD0109,SCC-CUST133,Perempuan,Parepare,Elektronik,E-Wallet,2,786582.0,20,4.0,3.5,1258531.2000000002,Normal,Menengah
+SCC-ORD0110,SCC-CUST209,Perempuan,Maros,Elektronik,E-Wallet,3,5718497.0,30,2.0,3.1,12008843.7,Cepat,Tinggi
+SCC-ORD0111,SCC-CUST214,Perempuan,Takalar,Kesehatan,COD,3,212370.0,20,1.0,3.3,509688.0,Cepat,Menengah
+SCC-ORD0112,SCC-CUST157,Perempuan,Parepare,Fashion,E-Wallet,3,628107.0,20,4.0,3.8,1507456.8,Normal,Menengah
+SCC-ORD0113,SCC-CUST173,Laki-laki,Parepare,Rumah Tangga,Transfer Bank,2,892998.0,15,4.0,4.1,1518096.5999999999,Normal,Menengah
+SCC-ORD0114,SCC-CUST012,Perempuan,Bone,Fashion,COD,3,103638.0,30,6.0,3.4,217639.8,Lama,Rendah
+SCC-ORD0115,SCC-CUST027,Laki-laki,Makassar,Fashion,Transfer Bank,1,1051524.0,25,5.0,3.6,788643.0,Normal,Menengah
+SCC-ORD0116,SCC-CUST041,Laki-laki,Parepare,Rumah Tangga,Kartu Kredit,2,126509.0,10,6.0,4.1,227716.2,Lama,Rendah
+SCC-ORD0117,SCC-CUST026,Laki-laki,Gowa,Kesehatan,E-Wallet,1,821276.0,30,5.0,4.5,574893.2,Normal,Menengah
+SCC-ORD0118,SCC-CUST005,Perempuan,Gowa,Rumah Tangga,COD,2,274190.0,25,7.0,5.0,411285.0,Lama,Rendah
+SCC-ORD0119,SCC-CUST061,Laki-laki,Makassar,Kesehatan,Transfer Bank,1,37323.0,0,4.0,3.5,37323.0,Normal,Rendah
+SCC-ORD0120,SCC-CUST010,Perempuan,Makassar,Kesehatan,E-Wallet,1,877041.0,20,5.0,4.2,701632.8,Normal,Menengah
+SCC-ORD0121,SCC-CUST028,Perempuan,Parepare,Rumah Tangga,Kartu Kredit,2,703486.0,15,1.0,4.1,1195926.2,Cepat,Menengah
+SCC-ORD0122,SCC-CUST175,Laki-laki,Bone,Elektronik,Kartu Kredit,1,1172727.0,20,1.0,4.4,938181.6000000001,Cepat,Menengah
+SCC-ORD0123,SCC-CUST093,Perempuan,Gowa,Fashion,E-Wallet,1,1169214.0,5,6.0,4.5,1110753.3,Lama,Menengah
+SCC-ORD0124,SCC-CUST013,Laki-laki,Bone,Rumah Tangga,COD,2,1660231.0,5,4.0,3.7,3154438.9,Normal,Tinggi
+SCC-ORD0125,SCC-CUST126,Laki-laki,Takalar,Kesehatan,Transfer Bank,1,577366.0,25,10.0,4.5,433024.5,Lama,Rendah
+SCC-ORD0126,SCC-CUST044,Perempuan,Takalar,Kesehatan,Transfer Bank,2,103819.0,15,5.0,3.6,176492.3,Normal,Rendah
+SCC-ORD0127,SCC-CUST157,Laki-laki,Makassar,Rumah Tangga,E-Wallet,1,1004730.0,15,5.0,3.7,854020.5,Normal,Menengah
+SCC-ORD0128,SCC-CUST161,Laki-laki,Makassar,Makanan,Transfer Bank,6,334028.0,15,4.0,3.1,1703542.8,Normal,Menengah
+SCC-ORD0129,SCC-CUST015,Laki-laki,Maros,Makanan,Kartu Kredit,1,146098.0,25,3.0,5.0,109573.5,Cepat,Rendah
+SCC-ORD0130,SCC-CUST050,Laki-laki,Takalar,Elektronik,E-Wallet,1,2011396.0,15,6.0,4.3,1709686.5999999999,Lama,Menengah
+SCC-ORD0131,SCC-CUST193,Laki-laki,Gowa,Fashion,Kartu Kredit,2,529395.0,0,1.0,4.1,1058790.0,Cepat,Menengah
+SCC-ORD0132,SCC-CUST109,Laki-laki,Bone,Rumah Tangga,COD,2,1349733.0,30,6.0,3.6,1889626.2,Lama,Menengah
+SCC-ORD0133,SCC-CUST192,Perempuan,Gowa,Makanan,Kartu Kredit,4,258276.0,10,3.0,4.8,929793.6,Cepat,Menengah
+SCC-ORD0134,SCC-CUST052,Laki-laki,Gowa,Fashion,Kartu Kredit,4,361593.0,25,6.0,2.9,1084779.0,Lama,Menengah
+SCC-ORD0135,SCC-CUST004,Laki-laki,Parepare,Fashion,Kartu Kredit,1,564608.0,30,5.0,4.2,395225.6,Normal,Rendah
+SCC-ORD0136,SCC-CUST192,Laki-laki,Parepare,Kesehatan,Transfer Bank,2,479384.0,0,1.0,4.6,958768.0,Cepat,Menengah
+SCC-ORD0137,SCC-CUST001,Perempuan,Makassar,Kesehatan,Transfer Bank,3,464493.0,25,5.0,4.3,1045109.25,Normal,Menengah
+SCC-ORD0138,SCC-CUST006,Perempuan,Maros,Elektronik,COD,2,499485.0,5,10.0,3.8,949021.5,Lama,Menengah
+SCC-ORD0139,SCC-CUST052,Laki-laki,Makassar,Elektronik,Kartu Kredit,2,1355904.0,0,4.0,5.0,2711808.0,Normal,Tinggi
+SCC-ORD0140,SCC-CUST187,Laki-laki,Bone,Rumah Tangga,Kartu Kredit,1,922060.0,5,6.0,4.7,875957.0,Lama,Menengah
+SCC-ORD0141,SCC-CUST010,Perempuan,Makassar,Rumah Tangga,Kartu Kredit,1,890672.0,15,7.0,2.9,757071.2,Lama,Menengah
+SCC-ORD0142,SCC-CUST084,Perempuan,Gowa,Makanan,Transfer Bank,2,216831.0,20,5.0,3.7,346929.60000000003,Normal,Rendah
+SCC-ORD0143,SCC-CUST017,Perempuan,Parepare,Elektronik,Transfer Bank,3,3895402.0,25,3.0,3.8,8764654.5,Cepat,Tinggi
+SCC-ORD0144,SCC-CUST215,Laki-laki,Gowa,Makanan,Transfer Bank,1,10509.0,25,4.0,5.0,7881.75,Normal,Rendah
+SCC-ORD0145,SCC-CUST146,Laki-laki,Parepare,Elektronik,E-Wallet,4,2970483.0,30,7.0,4.7,8317352.399999999,Lama,Tinggi
+SCC-ORD0146,SCC-CUST072,Perempuan,Maros,Elektronik,E-Wallet,2,5356364.0,20,4.0,4.1,8570182.4,Normal,Tinggi
+SCC-ORD0147,SCC-CUST046,Laki-laki,Gowa,Kesehatan,Transfer Bank,1,149925.0,5,4.0,5.0,142428.75,Normal,Rendah
+SCC-ORD0148,SCC-CUST002,Perempuan,Maros,Kesehatan,Kartu Kredit,5,249010.0,0,4.0,3.7,1245050.0,Normal,Menengah
+SCC-ORD0149,SCC-CUST142,Perempuan,Maros,Rumah Tangga,Transfer Bank,1,925494.0,15,6.0,4.4,786669.9,Lama,Menengah
+SCC-ORD0150,SCC-CUST085,Laki-laki,Maros,Kesehatan,COD,2,137578.0,0,5.0,5.0,275156.0,Normal,Rendah
+SCC-ORD0151,SCC-CUST151,Laki-laki,Makassar,Makanan,COD,1,129641.0,0,4.0,4.5,129641.0,Normal,Rendah
+SCC-ORD0152,SCC-CUST038,Laki-laki,Bone,Makanan,E-Wallet,1,204186.0,20,4.0,3.6,163348.80000000002,Normal,Rendah
+SCC-ORD0153,SCC-CUST117,Perempuan,Maros,Kesehatan,COD,4,122111.0,10,3.0,3.6,439599.60000000003,Cepat,Rendah
+SCC-ORD0154,SCC-CUST041,Perempuan,Takalar,Makanan,Kartu Kredit,1,230264.0,25,3.0,4.3,172698.0,Cepat,Rendah
+SCC-ORD0155,SCC-CUST079,Perempuan,Maros,Makanan,Transfer Bank,1,119420.0,0,8.0,5.0,119420.0,Lama,Rendah
+SCC-ORD0156,SCC-CUST027,Perempuan,Bone,Kesehatan,Transfer Bank,5,654733.0,5,4.0,3.7,3109981.75,Normal,Tinggi
+SCC-ORD0157,SCC-CUST066,Perempuan,Makassar,Kesehatan,COD,2,280846.0,10,3.0,4.2,505522.8,Cepat,Menengah
+SCC-ORD0158,SCC-CUST215,Laki-laki,Parepare,Makanan,COD,1,11067.0,15,4.0,3.7,9406.949999999999,Normal,Rendah
+SCC-ORD0159,SCC-CUST050,Laki-laki,Takalar,Elektronik,Kartu Kredit,6,4087568.0,15,5.0,4.1,20846596.8,Normal,Tinggi
+SCC-ORD0160,SCC-CUST210,Perempuan,Maros,Fashion,Kartu Kredit,1,79153.0,0,5.0,4.5,79153.0,Normal,Rendah
+SCC-ORD0161,SCC-CUST031,Perempuan,Parepare,Rumah Tangga,Transfer Bank,2,1073079.0,20,3.0,4.8,1716926.4000000001,Cepat,Menengah
+SCC-ORD0162,SCC-CUST133,Perempuan,Makassar,Kesehatan,Kartu Kredit,2,507790.0,15,3.0,5.0,863243.0,Cepat,Menengah
+SCC-ORD0163,SCC-CUST049,Perempuan,Maros,Makanan,Transfer Bank,1,234314.0,5,7.0,3.9,222598.3,Lama,Rendah
+SCC-ORD0164,SCC-CUST087,Perempuan,Takalar,Elektronik,Kartu Kredit,4,5244729.0,0,4.0,4.6,20978916.0,Normal,Tinggi
+SCC-ORD0165,SCC-CUST209,Laki-laki,Bone,Rumah Tangga,Kartu Kredit,4,1047141.0,25,1.0,4.1,3141423.0,Cepat,Tinggi
+SCC-ORD0166,SCC-CUST204,Laki-laki,Bone,Rumah Tangga,COD,1,483672.0,30,2.0,5.0,338570.39999999997,Cepat,Rendah
+SCC-ORD0167,SCC-CUST003,Laki-laki,Bone,Kesehatan,E-Wallet,1,445634.0,15,5.0,3.7,378788.89999999997,Normal,Rendah
+SCC-ORD0168,SCC-CUST013,Perempuan,Bone,Rumah Tangga,E-Wallet,4,1689855.0,10,2.0,3.9,6083478.0,Cepat,Tinggi
+SCC-ORD0169,SCC-CUST178,Laki-laki,Gowa,Rumah Tangga,Transfer Bank,1,318947.0,5,2.0,5.0,302999.64999999997,Cepat,Rendah
+SCC-ORD0170,SCC-CUST112,Perempuan,Takalar,Makanan,Transfer Bank,2,243968.0,20,4.0,4.8,390348.80000000005,Normal,Rendah
+SCC-ORD0171,SCC-CUST067,Laki-laki,Takalar,Fashion,E-Wallet,2,1137260.0,5,3.0,4.5,2160794.0,Cepat,Tinggi
+SCC-ORD0172,SCC-CUST150,Laki-laki,Takalar,Makanan,COD,2,260726.0,10,6.0,4.5,469306.8,Lama,Rendah
+SCC-ORD0173,SCC-CUST144,Laki-laki,Bone,Rumah Tangga,COD,2,1023477.0,30,4.0,5.0,1432867.7999999998,Normal,Menengah
+SCC-ORD0174,SCC-CUST210,Perempuan,Bone,Rumah Tangga,Kartu Kredit,1,1385247.0,0,6.0,4.6,1385247.0,Lama,Menengah
+SCC-ORD0175,SCC-CUST103,Perempuan,Gowa,Kesehatan,Kartu Kredit,3,857155.0,30,3.0,4.2,1800025.5,Cepat,Menengah
+SCC-ORD0176,SCC-CUST197,Perempuan,Parepare,Makanan,Kartu Kredit,2,251417.0,25,2.0,3.9,377125.5,Cepat,Rendah
+SCC-ORD0177,SCC-CUST013,Laki-laki,Bone,Fashion,E-Wallet,3,85124.0,20,5.0,3.6,204297.6,Normal,Rendah
+SCC-ORD0178,SCC-CUST033,Laki-laki,Parepare,Kesehatan,E-Wallet,3,737220.0,20,5.0,4.0,1769328.0,Normal,Menengah
+SCC-ORD0179,SCC-CUST074,Laki-laki,Makassar,Kesehatan,Kartu Kredit,4,795984.0,0,5.0,3.3,3183936.0,Normal,Tinggi
+SCC-ORD0180,SCC-CUST030,Laki-laki,Bone,Kesehatan,Transfer Bank,1,210633.0,5,2.0,4.6,200101.34999999998,Cepat,Rendah
+SCC-ORD0181,SCC-CUST007,Perempuan,Takalar,Fashion,Kartu Kredit,5,896556.0,15,7.0,4.0,3810363.0,Lama,Tinggi
+SCC-ORD0182,SCC-CUST108,Laki-laki,Gowa,Fashion,COD,4,157705.0,30,6.0,3.5,441574.0,Lama,Rendah
+SCC-ORD0183,SCC-CUST127,Perempuan,Maros,Makanan,E-Wallet,3,61915.0,10,7.0,4.3,167170.5,Lama,Rendah
+SCC-ORD0184,SCC-CUST055,Laki-laki,Bone,Elektronik,Transfer Bank,2,1807805.0,25,2.0,4.6,2711707.5,Cepat,Tinggi
+SCC-ORD0185,SCC-CUST080,Perempuan,Makassar,Kesehatan,COD,2,794835.0,10,7.0,5.0,1430703.0,Lama,Menengah
+SCC-ORD0186,SCC-CUST211,Laki-laki,Maros,Fashion,COD,4,1030505.0,25,2.0,3.1,3091515.0,Cepat,Tinggi
+SCC-ORD0187,SCC-CUST176,Laki-laki,Takalar,Kesehatan,Transfer Bank,1,717659.0,15,5.0,3.3,610010.15,Normal,Menengah
+SCC-ORD0188,SCC-CUST088,Perempuan,Takalar,Makanan,Transfer Bank,4,245377.0,0,4.0,3.2,981508.0,Normal,Menengah
+SCC-ORD0189,SCC-CUST027,Perempuan,Bone,Kesehatan,COD,2,93686.0,10,4.0,4.3,168634.80000000002,Normal,Rendah
+SCC-ORD0190,SCC-CUST141,Perempuan,Parepare,Rumah Tangga,Transfer Bank,1,1576679.0,0,2.0,4.5,1576679.0,Cepat,Menengah
+SCC-ORD0191,SCC-CUST102,Laki-laki,Takalar,Makanan,COD,3,243450.0,10,5.0,3.6,657315.0,Normal,Menengah
+SCC-ORD0192,SCC-CUST178,Laki-laki,Makassar,Makanan,E-Wallet,2,136822.0,10,9.0,4.3,246279.6,Lama,Rendah
+SCC-ORD0193,SCC-CUST102,Laki-laki,Gowa,Makanan,Transfer Bank,5,129692.0,30,3.0,5.0,453922.0,Cepat,Rendah
+SCC-ORD0194,SCC-CUST195,Perempuan,Makassar,Fashion,Transfer Bank,1,699933.0,15,1.0,4.0,594943.0499999999,Cepat,Menengah
+SCC-ORD0195,SCC-CUST116,Laki-laki,Gowa,Makanan,COD,1,142063.0,30,3.0,4.8,99444.09999999999,Cepat,Rendah
+SCC-ORD0196,SCC-CUST104,Perempuan,Bone,Elektronik,E-Wallet,1,5448668.0,15,3.0,4.1,4631367.8,Cepat,Tinggi
+SCC-ORD0197,SCC-CUST019,Laki-laki,Gowa,Kesehatan,COD,6,83248.0,0,3.0,4.8,499488.0,Cepat,Rendah
+SCC-ORD0198,SCC-CUST110,Perempuan,Bone,Fashion,E-Wallet,1,688345.0,10,10.0,2.9,619510.5,Lama,Menengah
+SCC-ORD0199,SCC-CUST112,Laki-laki,Gowa,Fashion,Transfer Bank,1,628107.0,0,2.0,3.7,628107.0,Cepat,Menengah
+SCC-ORD0200,SCC-CUST206,Perempuan,Maros,Makanan,COD,2,140869.0,30,5.0,3.9,197216.59999999998,Normal,Rendah
+SCC-ORD0201,SCC-CUST087,Perempuan,Makassar,Kesehatan,COD,3,357839.0,5,6.0,4.6,1019841.1499999999,Lama,Menengah
+SCC-ORD0202,SCC-CUST220,Laki-laki,Takalar,Kesehatan,COD,6,188043.0,0,4.0,3.0,1128258.0,Normal,Menengah
+SCC-ORD0203,SCC-CUST076,Perempuan,Maros,Makanan,Kartu Kredit,2,22282.0,25,5.0,4.4,33423.0,Normal,Rendah
+SCC-ORD0204,SCC-CUST061,Perempuan,Gowa,Elektronik,Kartu Kredit,3,2219927.0,25,4.0,3.1,4994835.75,Normal,Tinggi
+SCC-ORD0205,SCC-CUST045,Perempuan,Makassar,Elektronik,E-Wallet,1,2473036.0,0,4.0,3.5,2473036.0,Normal,Tinggi
+SCC-ORD0206,SCC-CUST006,Laki-laki,Gowa,Fashion,Transfer Bank,4,787021.0,0,5.0,3.2,3148084.0,Normal,Tinggi
+SCC-ORD0207,SCC-CUST033,Perempuan,Gowa,Elektronik,COD,2,4109691.0,25,6.0,5.0,6164536.5,Lama,Tinggi
+SCC-ORD0208,SCC-CUST073,Perempuan,Makassar,Elektronik,COD,2,5831893.0,5,7.0,4.1,11080596.7,Lama,Tinggi
+SCC-ORD0209,SCC-CUST020,Laki-laki,Maros,Makanan,Transfer Bank,2,27394.0,15,2.0,5.0,46569.799999999996,Cepat,Rendah
+SCC-ORD0210,SCC-CUST194,Laki-laki,Gowa,Rumah Tangga,Kartu Kredit,1,590846.0,25,6.0,2.4,443134.5,Lama,Rendah
+SCC-ORD0211,SCC-CUST089,Laki-laki,Bone,Elektronik,COD,3,2934528.0,10,4.0,4.2,7923225.600000001,Normal,Tinggi
+SCC-ORD0212,SCC-CUST208,Perempuan,Gowa,Rumah Tangga,Kartu Kredit,80,991606.0,0,1.0,3.9,79328480.0,Cepat,Tinggi
+SCC-ORD0213,SCC-CUST208,Perempuan,Parepare,Fashion,E-Wallet,4,146472.0,25,6.0,4.6,439416.0,Lama,Rendah
+SCC-ORD0214,SCC-CUST200,Perempuan,Gowa,Kesehatan,Transfer Bank,1,124460.0,0,7.0,4.4,124460.0,Lama,Rendah
+SCC-ORD0215,SCC-CUST098,Laki-laki,Maros,Kesehatan,Kartu Kredit,2,861756.0,25,3.0,3.4,1292634.0,Cepat,Menengah
+SCC-ORD0216,SCC-CUST053,Laki-laki,Makassar,Rumah Tangga,E-Wallet,6,551962.0,5,4.0,3.4,3146183.4,Normal,Tinggi
+SCC-ORD0217,SCC-CUST211,Laki-laki,Bone,Makanan,E-Wallet,4,61019.0,5,2.0,4.0,231872.19999999998,Cepat,Rendah
+SCC-ORD0218,SCC-CUST009,Perempuan,Bone,Rumah Tangga,Transfer Bank,1,1667864.0,20,1.0,3.3,1334291.2000000002,Cepat,Menengah
+SCC-ORD0219,SCC-CUST130,Laki-laki,Maros,Elektronik,COD,4,1322558.0,0,5.0,5.0,5290232.0,Normal,Tinggi
+SCC-ORD0220,SCC-CUST082,Laki-laki,Parepare,Kesehatan,Transfer Bank,2,845451.0,10,1.0,4.3,1521811.8,Cepat,Menengah
+SCC-ORD0221,SCC-CUST190,Perempuan,Takalar,Fashion,COD,4,86000.0,30,4.0,4.6,240799.99999999997,Normal,Rendah
+SCC-ORD0222,SCC-CUST162,Laki-laki,Bone,Rumah Tangga,COD,2,1414811.0,20,5.0,3.8,2263697.6,Normal,Tinggi
+SCC-ORD0223,SCC-CUST071,Laki-laki,Parepare,Kesehatan,E-Wallet,2,281281.0,5,10.0,4.7,534433.9,Lama,Menengah
+SCC-ORD0224,SCC-CUST127,Perempuan,Gowa,Rumah Tangga,Kartu Kredit,1,1520710.0,30,7.0,5.0,1064497.0,Lama,Menengah
+SCC-ORD0225,SCC-CUST195,Laki-laki,Gowa,Makanan,E-Wallet,5,258032.0,0,3.0,4.7,1290160.0,Cepat,Menengah
+SCC-ORD0226,SCC-CUST078,Laki-laki,Gowa,Fashion,Transfer Bank,1,342092.0,15,4.0,3.5,290778.2,Normal,Rendah
+SCC-ORD0227,SCC-CUST031,Perempuan,Takalar,Fashion,E-Wallet,2,173431.0,5,3.0,4.4,329518.89999999997,Cepat,Rendah
+SCC-ORD0228,SCC-CUST103,Laki-laki,Bone,Kesehatan,Transfer Bank,3,294554.0,30,1.0,2.4,618563.3999999999,Cepat,Menengah
+SCC-ORD0229,SCC-CUST035,Laki-laki,Takalar,Elektronik,Transfer Bank,3,978606.0,0,4.0,3.4,2935818.0,Normal,Tinggi
+SCC-ORD0230,SCC-CUST197,Perempuan,Bone,Rumah Tangga,Kartu Kredit,2,1758034.0,30,1.0,3.6,2461247.5999999996,Cepat,Tinggi
+SCC-ORD0231,SCC-CUST159,Laki-laki,Bone,Rumah Tangga,E-Wallet,1,1999828.0,15,2.0,4.1,1699853.8,Cepat,Menengah
+SCC-ORD0232,SCC-CUST130,Laki-laki,Maros,Fashion,E-Wallet,2,4272357.0,25,3.0,4.0,6408535.5,Cepat,Tinggi
+SCC-ORD0233,SCC-CUST143,Perempuan,Gowa,Elektronik,Kartu Kredit,2,872059.0,20,5.0,4.1,1395294.4000000001,Normal,Menengah
+SCC-ORD0234,SCC-CUST205,Perempuan,Makassar,Makanan,Transfer Bank,1,297225.0,15,6.0,4.1,252641.25,Lama,Rendah
+SCC-ORD0235,SCC-CUST079,Laki-laki,Gowa,Elektronik,E-Wallet,1,3686414.0,0,4.0,3.9,3686414.0,Normal,Tinggi
+SCC-ORD0236,SCC-CUST154,Laki-laki,Makassar,Fashion,COD,2,224630.0,10,6.0,3.2,404334.0,Lama,Rendah
+SCC-ORD0237,SCC-CUST048,Perempuan,Bone,Kesehatan,Kartu Kredit,1,477465.0,30,5.0,2.8,334225.5,Normal,Rendah
+SCC-ORD0238,SCC-CUST038,Perempuan,Makassar,Fashion,E-Wallet,1,403253.0,20,5.0,4.4,322602.4,Normal,Rendah
+SCC-ORD0239,SCC-CUST077,Laki-laki,Parepare,Elektronik,E-Wallet,2,2500680.0,25,5.0,3.4,3751020.0,Normal,Tinggi
+SCC-ORD0240,SCC-CUST034,Perempuan,Bone,Rumah Tangga,E-Wallet,2,1845704.0,25,5.0,3.9,2768556.0,Normal,Tinggi
+SCC-ORD0241,SCC-CUST160,Perempuan,Maros,Elektronik,E-Wallet,2,2293766.0,15,6.0,4.2,3899402.1999999997,Lama,Tinggi
+SCC-ORD0242,SCC-CUST107,Perempuan,Bone,Elektronik,Kartu Kredit,6,3408055.0,15,4.0,4.1,17381080.5,Normal,Tinggi
+SCC-ORD0243,SCC-CUST022,Laki-laki,Makassar,Fashion,Transfer Bank,2,584754.0,10,4.0,3.6,1052557.2,Normal,Menengah
+SCC-ORD0244,SCC-CUST076,Laki-laki,Bone,Kesehatan,E-Wallet,1,107084.0,0,3.0,5.0,107084.0,Cepat,Rendah
+SCC-ORD0245,SCC-CUST135,Laki-laki,Maros,Kesehatan,E-Wallet,1,97329.0,5,5.0,4.2,92462.55,Normal,Rendah
+SCC-ORD0246,SCC-CUST086,Perempuan,Parepare,Kesehatan,COD,6,706161.0,5,2.0,4.7,4025117.6999999997,Cepat,Tinggi
+SCC-ORD0247,SCC-CUST124,Perempuan,Maros,Fashion,Kartu Kredit,3,186910.0,0,4.0,3.5,560730.0,Normal,Menengah
+SCC-ORD0248,SCC-CUST146,Perempuan,Bone,Rumah Tangga,Kartu Kredit,1,848091.0,25,2.0,5.0,636068.25,Cepat,Menengah
+SCC-ORD0249,SCC-CUST133,Perempuan,Parepare,Kesehatan,COD,2,556342.0,25,3.0,2.9,834513.0,Cepat,Menengah
+SCC-ORD0250,SCC-CUST196,Laki-laki,Bone,Kesehatan,E-Wallet,1,847198.0,25,3.0,4.2,635398.5,Cepat,Menengah
+SCC-ORD0251,SCC-CUST186,Laki-laki,Makassar,Fashion,Transfer Bank,1,556951.0,10,9.0,4.6,501255.9,Lama,Menengah
+SCC-ORD0252,SCC-CUST034,Perempuan,Maros,Makanan,E-Wallet,1,259391.0,0,4.0,4.5,259391.0,Normal,Rendah
+SCC-ORD0253,SCC-CUST168,Perempuan,Bone,Rumah Tangga,E-Wallet,1,1779257.0,15,4.0,3.7,1512368.45,Normal,Menengah
+SCC-ORD0254,SCC-CUST123,Perempuan,Parepare,Fashion,Kartu Kredit,4,547423.0,5,5.0,3.4,2080207.4,Normal,Tinggi
+SCC-ORD0255,SCC-CUST216,Perempuan,Parepare,Makanan,Transfer Bank,1,67527.0,15,5.0,4.3,57397.95,Normal,Rendah
+SCC-ORD0256,SCC-CUST120,Laki-laki,Bone,Elektronik,Transfer Bank,3,5703252.0,25,3.0,4.2,12832317.0,Cepat,Tinggi
+SCC-ORD0257,SCC-CUST212,Perempuan,Makassar,Rumah Tangga,E-Wallet,1,536741.0,0,9.0,4.3,536741.0,Lama,Menengah
+SCC-ORD0258,SCC-CUST170,Perempuan,Makassar,Kesehatan,Transfer Bank,2,676506.0,0,3.0,4.0,1353012.0,Cepat,Menengah
+SCC-ORD0259,SCC-CUST005,Laki-laki,Bone,Elektronik,COD,2,1981516.0,15,6.0,3.8,3368577.1999999997,Lama,Tinggi
+SCC-ORD0260,SCC-CUST019,Perempuan,Bone,Makanan,E-Wallet,1,51144.0,5,6.0,3.3,48586.799999999996,Lama,Rendah
+SCC-ORD0261,SCC-CUST016,Perempuan,Makassar,Rumah Tangga,E-Wallet,1,1011556.0,10,5.0,4.6,910400.4,Normal,Menengah
+SCC-ORD0262,SCC-CUST110,Perempuan,Bone,Fashion,Kartu Kredit,1,1132693.0,0,5.0,4.1,1132693.0,Normal,Menengah
+SCC-ORD0263,SCC-CUST189,Perempuan,Maros,Fashion,COD,1,668319.0,15,6.0,4.6,568071.15,Lama,Menengah
+SCC-ORD0264,SCC-CUST201,Perempuan,Takalar,Kesehatan,E-Wallet,1,866255.0,10,5.0,4.4,779629.5,Normal,Menengah
+SCC-ORD0265,SCC-CUST146,Perempuan,Makassar,Rumah Tangga,Transfer Bank,3,1887842.0,20,2.0,3.8,4530820.8,Cepat,Tinggi
+SCC-ORD0266,SCC-CUST010,Perempuan,Takalar,Elektronik,Transfer Bank,3,4174505.0,15,5.0,3.3,10644987.75,Normal,Tinggi
+SCC-ORD0267,SCC-CUST210,Perempuan,Bone,Fashion,E-Wallet,1,1010196.0,25,3.0,3.9,757647.0,Cepat,Menengah
+SCC-ORD0268,SCC-CUST089,Laki-laki,Parepare,Fashion,E-Wallet,1,120240.0,0,3.0,4.5,120240.0,Cepat,Rendah
+SCC-ORD0269,SCC-CUST091,Perempuan,Maros,Makanan,Kartu Kredit,2,295024.0,10,4.0,4.0,531043.2000000001,Normal,Menengah
+SCC-ORD0270,SCC-CUST063,Laki-laki,Maros,Rumah Tangga,Transfer Bank,2,831449.0,15,3.0,4.9,1413463.3,Cepat,Menengah
+SCC-ORD0271,SCC-CUST162,Laki-laki,Bone,Fashion,E-Wallet,6,912698.0,15,6.0,4.0,4654759.8,Lama,Tinggi
+SCC-ORD0272,SCC-CUST119,Laki-laki,Parepare,Fashion,Kartu Kredit,5,580861.0,15,2.0,4.1,2468659.25,Cepat,Tinggi
+SCC-ORD0273,SCC-CUST195,Laki-laki,Takalar,Elektronik,Transfer Bank,2,1651194.0,30,1.0,4.7,2311671.5999999996,Cepat,Tinggi
+SCC-ORD0274,SCC-CUST165,Perempuan,Maros,Elektronik,Kartu Kredit,3,5878917.0,10,4.0,2.4,15873075.9,Normal,Tinggi
+SCC-ORD0275,SCC-CUST038,Laki-laki,Takalar,Kesehatan,E-Wallet,4,683064.0,25,3.0,5.0,2049192.0,Cepat,Tinggi
+SCC-ORD0276,SCC-CUST064,Perempuan,Maros,Rumah Tangga,E-Wallet,2,1356949.0,0,4.0,3.8,2713898.0,Normal,Tinggi
+SCC-ORD0277,SCC-CUST187,Perempuan,Gowa,Fashion,Kartu Kredit,3,300368.0,15,3.0,3.4,765938.4,Cepat,Menengah
+SCC-ORD0278,SCC-CUST210,Laki-laki,Makassar,Fashion,COD,2,978280.0,30,3.0,4.2,1369592.0,Cepat,Menengah
+SCC-ORD0279,SCC-CUST163,Perempuan,Gowa,Fashion,COD,2,783540.0,10,6.0,4.7,1410372.0,Lama,Menengah
+SCC-ORD0280,SCC-CUST169,Laki-laki,Takalar,Rumah Tangga,E-Wallet,1,1447901.0,15,4.0,5.0,1230715.8499999999,Normal,Menengah
+SCC-ORD0281,SCC-CUST076,Perempuan,Makassar,Rumah Tangga,E-Wallet,2,380412.0,0,5.0,2.8,760824.0,Normal,Menengah
+SCC-ORD0282,SCC-CUST194,Laki-laki,Takalar,Makanan,Kartu Kredit,1,314325.0,0,2.0,3.9,314325.0,Cepat,Rendah
+SCC-ORD0283,SCC-CUST165,Laki-laki,Takalar,Elektronik,Kartu Kredit,2,1892041.0,25,3.0,3.5,2838061.5,Cepat,Tinggi
+SCC-ORD0284,SCC-CUST135,Perempuan,Maros,Elektronik,COD,2,628107.0,30,8.0,4.5,879349.7999999999,Lama,Menengah
+SCC-ORD0285,SCC-CUST078,Laki-laki,Maros,Makanan,Kartu Kredit,2,277368.0,25,1.0,4.5,416052.0,Cepat,Rendah
+SCC-ORD0286,SCC-CUST157,Perempuan,Bone,Elektronik,E-Wallet,2,4251745.0,25,5.0,3.9,6377617.5,Normal,Tinggi
+SCC-ORD0287,SCC-CUST146,Perempuan,Parepare,Fashion,E-Wallet,3,1025574.0,15,2.0,3.9,2615213.6999999997,Cepat,Tinggi
+SCC-ORD0288,SCC-CUST021,Laki-laki,Parepare,Fashion,Kartu Kredit,6,566240.0,0,3.0,3.8,3397440.0,Cepat,Tinggi
+SCC-ORD0289,SCC-CUST206,Laki-laki,Takalar,Kesehatan,Transfer Bank,3,779385.0,15,4.0,3.9,1987431.75,Normal,Menengah
+SCC-ORD0290,SCC-CUST135,Laki-laki,Parepare,Makanan,COD,1,27236.0,10,5.0,4.7,24512.4,Normal,Rendah
+SCC-ORD0291,SCC-CUST144,Perempuan,Takalar,Makanan,Kartu Kredit,2,99877.0,15,5.0,4.6,169790.9,Normal,Rendah
+SCC-ORD0292,SCC-CUST179,Perempuan,Makassar,Elektronik,Kartu Kredit,1,5471715.0,30,5.0,4.2,3830200.4999999995,Normal,Tinggi
+SCC-ORD0293,SCC-CUST168,Laki-laki,Maros,Makanan,Kartu Kredit,2,217503.0,30,3.0,4.7,304504.19999999995,Cepat,Rendah
+SCC-ORD0294,SCC-CUST059,Laki-laki,Gowa,Kesehatan,COD,1,447248.0,5,6.0,5.0,424885.6,Lama,Rendah
+SCC-ORD0295,SCC-CUST189,Laki-laki,Maros,Kesehatan,COD,1,60000000.0,15,3.0,5.0,51000000.0,Cepat,Tinggi
+SCC-ORD0296,SCC-CUST083,Perempuan,Takalar,Kesehatan,Kartu Kredit,1,307861.0,0,3.0,3.3,307861.0,Cepat,Rendah
+SCC-ORD0297,SCC-CUST031,Perempuan,Parepare,Elektronik,E-Wallet,5,3292623.0,10,3.0,4.3,14816803.5,Cepat,Tinggi
+SCC-ORD0298,SCC-CUST044,Perempuan,Parepare,Elektronik,COD,2,5313468.0,10,6.0,2.7,9564242.4,Lama,Tinggi
+SCC-ORD0299,SCC-CUST119,Perempuan,Bone,Rumah Tangga,Kartu Kredit,4,671035.0,30,5.0,4.7,1878897.9999999998,Normal,Menengah
+SCC-ORD0300,SCC-CUST214,Laki-laki,Bone,Kesehatan,Kartu Kredit,1,117994.0,20,4.0,5.0,94395.20000000001,Normal,Rendah
+SCC-ORD0301,SCC-CUST196,Laki-laki,Gowa,Makanan,Transfer Bank,3,270600.0,5,3.0,4.6,771210.0,Cepat,Menengah
+SCC-ORD0302,SCC-CUST118,Perempuan,Makassar,Rumah Tangga,COD,1,907676.0,30,10.0,3.8,635373.2,Lama,Menengah
+SCC-ORD0303,SCC-CUST104,Perempuan,Parepare,Kesehatan,Transfer Bank,1,659972.0,5,6.0,4.1,626973.4,Lama,Menengah
+SCC-ORD0304,SCC-CUST095,Perempuan,Makassar,Elektronik,Transfer Bank,2,1569148.0,0,4.0,4.6,3138296.0,Normal,Tinggi
+SCC-ORD0305,SCC-CUST014,Laki-laki,Bone,Fashion,COD,1,663041.0,20,6.0,4.2,530432.8,Lama,Menengah
+SCC-ORD0306,SCC-CUST199,Laki-laki,Makassar,Kesehatan,Transfer Bank,2,570341.0,30,3.0,4.1,798477.3999999999,Cepat,Menengah
+SCC-ORD0307,SCC-CUST047,Perempuan,Takalar,Rumah Tangga,Transfer Bank,2,970933.0,0,3.0,4.0,1941866.0,Cepat,Menengah
+SCC-ORD0308,SCC-CUST167,Laki-laki,Maros,Rumah Tangga,Transfer Bank,1,641334.0,10,3.0,4.0,577200.6,Cepat,Menengah
+SCC-ORD0309,SCC-CUST195,Laki-laki,Maros,Kesehatan,Kartu Kredit,1,350044.0,0,1.0,4.1,350044.0,Cepat,Rendah
+SCC-ORD0310,SCC-CUST168,Laki-laki,Takalar,Makanan,Kartu Kredit,1,210358.0,25,3.0,3.9,157768.5,Cepat,Rendah
+SCC-ORD0311,SCC-CUST141,Perempuan,Bone,Makanan,COD,3,174376.0,5,5.0,3.7,496971.6,Normal,Rendah
+SCC-ORD0312,SCC-CUST041,Perempuan,Bone,Rumah Tangga,E-Wallet,2,1018104.0,10,3.0,5.0,1832587.2,Cepat,Menengah
+SCC-ORD0313,SCC-CUST082,Perempuan,Parepare,Makanan,Transfer Bank,3,241750.0,10,3.0,4.4,652725.0,Cepat,Menengah
+SCC-ORD0314,SCC-CUST180,Perempuan,Bone,Kesehatan,Kartu Kredit,4,77412.0,10,6.0,5.0,278683.2,Lama,Rendah
+SCC-ORD0315,SCC-CUST207,Perempuan,Takalar,Makanan,Transfer Bank,2,245929.0,20,6.0,4.1,393486.4,Lama,Rendah
+SCC-ORD0316,SCC-CUST094,Perempuan,Gowa,Kesehatan,Kartu Kredit,2,522669.0,25,3.0,4.1,784003.5,Cepat,Menengah
+SCC-ORD0317,SCC-CUST181,Perempuan,Gowa,Makanan,E-Wallet,3,337999.0,10,1.0,3.8,912597.3,Cepat,Menengah
+SCC-ORD0318,SCC-CUST146,Perempuan,Makassar,Makanan,COD,2,108799.0,30,5.0,4.2,152318.59999999998,Normal,Rendah
+SCC-ORD0319,SCC-CUST042,Perempuan,Parepare,Elektronik,Kartu Kredit,2,5124352.0,5,2.0,3.5,9736268.799999999,Cepat,Tinggi
+SCC-ORD0320,SCC-CUST159,Laki-laki,Maros,Rumah Tangga,COD,1,1014515.0,15,7.0,4.3,862337.75,Lama,Menengah
+SCC-ORD0321,SCC-CUST109,Laki-laki,Maros,Elektronik,E-Wallet,3,3471398.0,15,4.0,5.0,8852064.9,Normal,Tinggi
+SCC-ORD0322,SCC-CUST158,Laki-laki,Makassar,Kesehatan,Transfer Bank,2,129868.0,10,5.0,4.4,233762.4,Normal,Rendah
+SCC-ORD0323,SCC-CUST065,Laki-laki,Takalar,Rumah Tangga,Transfer Bank,5,343200.0,20,1.0,4.3,1372800.0,Cepat,Menengah
+SCC-ORD0324,SCC-CUST006,Laki-laki,Parepare,Fashion,Kartu Kredit,1,327356.0,10,2.0,4.0,294620.4,Cepat,Rendah
+SCC-ORD0325,SCC-CUST213,Laki-laki,Maros,Rumah Tangga,COD,3,1293621.0,30,6.0,5.0,2716604.0999999996,Lama,Tinggi
+SCC-ORD0326,SCC-CUST092,Perempuan,Takalar,Kesehatan,COD,2,362194.0,25,2.0,3.4,543291.0,Cepat,Menengah
+SCC-ORD0327,SCC-CUST119,Laki-laki,Maros,Makanan,Kartu Kredit,3,266829.0,0,5.0,4.1,800487.0,Normal,Menengah
+SCC-ORD0328,SCC-CUST052,Laki-laki,Bone,Rumah Tangga,Transfer Bank,4,1079500.0,20,5.0,3.9,3454400.0,Normal,Tinggi
+SCC-ORD0329,SCC-CUST006,Laki-laki,Makassar,Fashion,Transfer Bank,4,231175.0,20,5.0,3.6,739760.0,Normal,Menengah
+SCC-ORD0330,SCC-CUST004,Perempuan,Makassar,Fashion,Transfer Bank,3,622056.0,10,5.0,3.6,1679551.2,Normal,Menengah
+SCC-ORD0331,SCC-CUST180,Laki-laki,Bone,Makanan,E-Wallet,4,85364.0,30,10.0,3.8,239019.19999999998,Lama,Rendah
+SCC-ORD0332,SCC-CUST004,Laki-laki,Maros,Rumah Tangga,E-Wallet,1,47119.0,20,2.0,4.2,37695.200000000004,Cepat,Rendah
+SCC-ORD0333,SCC-CUST117,Perempuan,Takalar,Rumah Tangga,Transfer Bank,1,1965902.0,30,7.0,2.7,1376131.4,Lama,Menengah
+SCC-ORD0334,SCC-CUST057,Laki-laki,Parepare,Makanan,Kartu Kredit,2,260771.0,5,7.0,3.9,495464.89999999997,Lama,Rendah
+SCC-ORD0335,SCC-CUST048,Laki-laki,Bone,Elektronik,Kartu Kredit,2,2867199.0,30,5.0,5.0,4014078.5999999996,Normal,Tinggi
+SCC-ORD0336,SCC-CUST125,Laki-laki,Maros,Kesehatan,E-Wallet,3,757389.0,15,5.0,3.6,1931341.95,Normal,Menengah
+SCC-ORD0337,SCC-CUST171,Laki-laki,Bone,Rumah Tangga,COD,1,815828.0,5,5.0,3.8,775036.6,Normal,Menengah
+SCC-ORD0338,SCC-CUST055,Perempuan,Makassar,Rumah Tangga,COD,2,1747953.0,25,3.0,4.9,2621929.5,Cepat,Tinggi
+SCC-ORD0339,SCC-CUST095,Perempuan,Takalar,Rumah Tangga,E-Wallet,1,1797747.0,0,4.0,4.4,1797747.0,Normal,Menengah
+SCC-ORD0340,SCC-CUST122,Perempuan,Parepare,Elektronik,COD,1,457736.0,5,1.0,3.8,434849.19999999995,Cepat,Rendah
+SCC-ORD0341,SCC-CUST196,Perempuan,Maros,Makanan,E-Wallet,1,304912.0,20,5.0,3.0,243929.6,Normal,Rendah
+SCC-ORD0342,SCC-CUST068,Laki-laki,Takalar,Makanan,Transfer Bank,2,46475.0,10,6.0,5.0,83655.0,Lama,Rendah
+SCC-ORD0343,SCC-CUST141,Laki-laki,Parepare,Makanan,E-Wallet,1,88425.0,15,4.0,3.6,75161.25,Normal,Rendah
+SCC-ORD0344,SCC-CUST191,Laki-laki,Gowa,Rumah Tangga,Kartu Kredit,2,1421258.0,10,3.0,4.0,2558264.4,Cepat,Tinggi
+SCC-ORD0345,SCC-CUST034,Laki-laki,Gowa,Elektronik,COD,3,1348985.0,0,4.0,4.1,4046955.0,Normal,Tinggi
+SCC-ORD0346,SCC-CUST021,Laki-laki,Takalar,Makanan,COD,2,84710.0,5,4.0,3.5,160949.0,Normal,Rendah
+SCC-ORD0347,SCC-CUST194,Perempuan,Maros,Rumah Tangga,Transfer Bank,2,1078085.0,0,7.0,4.9,2156170.0,Lama,Tinggi
+SCC-ORD0348,SCC-CUST034,Laki-laki,Bone,Fashion,COD,2,311688.0,20,7.0,4.7,498700.80000000005,Lama,Rendah
+SCC-ORD0349,SCC-CUST100,Laki-laki,Bone,Rumah Tangga,Kartu Kredit,1,1147577.0,5,6.0,4.5,1090198.15,Lama,Menengah
+SCC-ORD0350,SCC-CUST014,Laki-laki,Bone,Elektronik,Kartu Kredit,4,5756162.0,5,4.0,3.5,21873415.599999998,Normal,Tinggi
+SCC-ORD0351,SCC-CUST206,Laki-laki,Takalar,Makanan,Transfer Bank,1,207531.0,25,1.0,4.4,155648.25,Cepat,Rendah
+SCC-ORD0352,SCC-CUST138,Perempuan,Makassar,Kesehatan,Transfer Bank,2,851107.0,25,10.0,4.8,1276660.5,Lama,Menengah
+SCC-ORD0353,SCC-CUST056,Perempuan,Takalar,Rumah Tangga,Transfer Bank,4,151627.0,25,5.0,3.7,454881.0,Normal,Rendah
+SCC-ORD0354,SCC-CUST007,Perempuan,Maros,Rumah Tangga,Kartu Kredit,1,1778787.0,5,3.0,4.1,1689847.65,Cepat,Menengah
+SCC-ORD0355,SCC-CUST082,Laki-laki,Gowa,Kesehatan,E-Wallet,2,756242.0,20,5.0,4.4,1209987.2,Normal,Menengah
+SCC-ORD0356,SCC-CUST173,Perempuan,Parepare,Kesehatan,Kartu Kredit,5,95860.0,25,9.0,4.8,359475.0,Lama,Rendah
+SCC-ORD0357,SCC-CUST045,Laki-laki,Bone,Fashion,COD,3,324016.0,5,4.0,2.6,923445.6,Normal,Menengah
+SCC-ORD0358,SCC-CUST118,Laki-laki,Takalar,Elektronik,Transfer Bank,1,2313777.0,30,3.0,4.5,1619643.9,Cepat,Menengah
+SCC-ORD0359,SCC-CUST175,Perempuan,Bone,Kesehatan,E-Wallet,6,766028.0,15,6.0,3.8,3906742.8,Lama,Tinggi
+SCC-ORD0360,SCC-CUST065,Laki-laki,Maros,Rumah Tangga,Kartu Kredit,1,1112750.0,15,7.0,3.5,945837.5,Lama,Menengah
+SCC-ORD0361,SCC-CUST184,Laki-laki,Bone,Rumah Tangga,Kartu Kredit,6,982440.0,15,4.0,5.0,5010444.0,Normal,Tinggi
+SCC-ORD0362,SCC-CUST165,Perempuan,Makassar,Elektronik,E-Wallet,5,628107.0,5,5.0,3.8,2983508.25,Normal,Tinggi
+SCC-ORD0363,SCC-CUST122,Perempuan,Bone,Makanan,COD,4,94343.0,0,6.0,2.4,377372.0,Lama,Rendah
+SCC-ORD0364,SCC-CUST118,Laki-laki,Takalar,Elektronik,E-Wallet,2,634318.0,30,7.0,3.8,888045.2,Lama,Menengah
+SCC-ORD0365,SCC-CUST042,Laki-laki,Makassar,Fashion,Kartu Kredit,2,1092129.0,30,5.0,4.2,1528980.5999999999,Normal,Menengah
+SCC-ORD0366,SCC-CUST072,Perempuan,Maros,Elektronik,Transfer Bank,3,1941425.0,15,8.0,3.6,4950633.75,Lama,Tinggi
+SCC-ORD0367,SCC-CUST013,Perempuan,Parepare,Rumah Tangga,COD,2,92373.0,0,4.0,4.8,184746.0,Normal,Rendah
+SCC-ORD0368,SCC-CUST164,Laki-laki,Gowa,Kesehatan,E-Wallet,3,722946.0,15,4.0,3.8,1843512.3,Normal,Menengah
+SCC-ORD0369,SCC-CUST029,Perempuan,Gowa,Elektronik,E-Wallet,2,1040733.0,25,4.0,4.6,1561099.5,Normal,Menengah
+SCC-ORD0370,SCC-CUST052,Laki-laki,Bone,Kesehatan,COD,3,733244.0,5,6.0,0.5,2089745.4,Lama,Tinggi
+SCC-ORD0371,SCC-CUST198,Perempuan,Takalar,Rumah Tangga,COD,5,1563060.0,20,4.0,4.9,6252240.0,Normal,Tinggi
+SCC-ORD0372,SCC-CUST196,Perempuan,Bone,Elektronik,Transfer Bank,3,2858002.0,5,7.0,4.7,8145305.699999999,Lama,Tinggi
+SCC-ORD0373,SCC-CUST041,Laki-laki,Gowa,Makanan,Kartu Kredit,1,314026.0,5,3.0,3.2,298324.7,Cepat,Rendah
+SCC-ORD0374,SCC-CUST062,Laki-laki,Makassar,Rumah Tangga,E-Wallet,1,87780.0,15,3.0,2.9,74613.0,Cepat,Rendah
+SCC-ORD0375,SCC-CUST104,Laki-laki,Bone,Makanan,E-Wallet,1,69124.0,5,3.0,4.2,65667.8,Cepat,Rendah
+SCC-ORD0376,SCC-CUST051,Perempuan,Parepare,Makanan,COD,2,252379.0,30,1.0,4.8,353330.6,Cepat,Rendah
+SCC-ORD0377,SCC-CUST132,Perempuan,Takalar,Kesehatan,Kartu Kredit,3,552713.0,0,4.0,3.3,1658139.0,Normal,Menengah
+SCC-ORD0378,SCC-CUST178,Laki-laki,Maros,Elektronik,COD,2,3697195.0,15,9.0,4.0,6285231.5,Lama,Tinggi
+SCC-ORD0379,SCC-CUST102,Perempuan,Takalar,Fashion,COD,4,878786.0,20,3.0,2.5,2812115.2,Cepat,Tinggi
+SCC-ORD0380,SCC-CUST186,Perempuan,Parepare,Kesehatan,Transfer Bank,1,854710.0,0,6.0,4.0,854710.0,Lama,Menengah
+SCC-ORD0381,SCC-CUST028,Perempuan,Maros,Kesehatan,E-Wallet,2,389399.0,5,6.0,4.4,739858.1,Lama,Menengah
+SCC-ORD0382,SCC-CUST193,Laki-laki,Parepare,Fashion,Transfer Bank,2,680170.0,10,5.0,3.6,1224306.0,Normal,Menengah
+SCC-ORD0383,SCC-CUST022,Laki-laki,Makassar,Elektronik,COD,1,4547938.0,20,1.0,4.3,3638350.4000000004,Cepat,Tinggi
+SCC-ORD0384,SCC-CUST080,Perempuan,Gowa,Fashion,Kartu Kredit,3,1184593.0,20,5.0,4.5,2843023.2,Normal,Tinggi
+SCC-ORD0385,SCC-CUST117,Laki-laki,Makassar,Kesehatan,COD,5,852484.0,30,9.0,4.1,2983694.0,Lama,Tinggi
+SCC-ORD0386,SCC-CUST126,Perempuan,Gowa,Fashion,Kartu Kredit,3,797550.0,10,3.0,3.5,2153385.0,Cepat,Tinggi
+SCC-ORD0387,SCC-CUST039,Laki-laki,Makassar,Fashion,Kartu Kredit,2,173854.0,30,6.0,2.2,243395.59999999998,Lama,Rendah
+SCC-ORD0388,SCC-CUST020,Laki-laki,Parepare,Kesehatan,E-Wallet,4,75741.0,20,7.0,5.0,242371.2,Lama,Rendah
+SCC-ORD0389,SCC-CUST057,Perempuan,Maros,Elektronik,COD,1,1978628.0,20,3.0,3.7,1582902.4000000001,Cepat,Menengah
+SCC-ORD0390,SCC-CUST118,Perempuan,Maros,Fashion,E-Wallet,1,1029413.0,5,8.0,4.2,977942.35,Lama,Menengah
+SCC-ORD0391,SCC-CUST109,Perempuan,Takalar,Elektronik,COD,2,3512540.0,0,4.0,3.9,7025080.0,Normal,Tinggi
+SCC-ORD0392,SCC-CUST082,Laki-laki,Bone,Fashion,E-Wallet,1,93779.0,5,1.0,4.0,89090.05,Cepat,Rendah
+SCC-ORD0393,SCC-CUST100,Laki-laki,Bone,Makanan,Kartu Kredit,2,250767.0,30,5.0,4.0,351073.8,Normal,Rendah
+SCC-ORD0394,SCC-CUST173,Laki-laki,Makassar,Fashion,E-Wallet,3,977008.0,20,6.0,4.6,2344819.2,Lama,Tinggi
+SCC-ORD0395,SCC-CUST037,Laki-laki,Takalar,Elektronik,Kartu Kredit,3,5824268.0,0,3.0,3.9,17472804.0,Cepat,Tinggi
